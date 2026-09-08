@@ -311,7 +311,7 @@ export default function Investigations() {
                   style={{ fontSize: 12 }}
                   onClick={() => navigate(`/investigations?entity=P0001`)}
                 >
-                  Open Dossier
+                  View Case Report
                 </button>
                 <button
                   className="btn-secondary"

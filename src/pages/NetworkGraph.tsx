@@ -1103,10 +1103,14 @@ export default function NetworkGraph() {
               <div style={{ display: "flex", flexDirection: "column", gap: 8, marginTop: 10 }}>
                 <button
                   onClick={() => {
-                    const targetEntity = selectedNode
-                      ? (selectedNode.id || selectedNode.label)
-                      : (selectedEdge?.source || "P0001");
-                    navigate(`/investigations?entity=${encodeURIComponent(targetEntity)}`);
+                    let target = "P0001";
+                    if (selectedNode) {
+                      target = (selectedNode as any).person_id || selectedNode.id || selectedNode.label;
+                    } else if (selectedEdge) {
+                      const sNode = nodes.find(n => n.id === selectedEdge.source);
+                      target = (sNode as any)?.person_id || selectedEdge.source;
+                    }
+                    navigate(`/investigations?entity=${encodeURIComponent(target)}`);
                   }}
                   style={{
                     height: 36,
@@ -1119,7 +1123,7 @@ export default function NetworkGraph() {
                     cursor: "pointer"
                   }}
                 >
-                  Open Investigation Dossier
+                  Open Case Intelligence Report
                 </button>
                 <button
                   onClick={() => { setSelectedNode(null); setSelectedEdge(null); }}

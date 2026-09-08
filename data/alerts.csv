@@ -1,0 +1,1201 @@
+alert_id,entity_id,alert_type,evidence_id,confidence,explanation
+A00001,P0463,LOCATION_ASSOCIATION,T02386,0.94,A linked vehicle/person was observed at a monitored synthetic location.
+A00002,P0072,LOCATION_ASSOCIATION,T01526,0.75,A linked vehicle/person was observed at a monitored synthetic location.
+A00003,P0299,LOCATION_ASSOCIATION,T02400,0.82,A linked vehicle/person was observed at a monitored synthetic location.
+A00004,P0309,DENSE_NETWORK_CLUSTER,C02537,0.73,Entity is located in a densely connected synthetic graph cluster.
+A00005,P0389,UNUSUAL_TRANSACTION,T02780,0.82,Transaction pattern deviates from the synthetic baseline.
+A00006,P0224,LOCATION_ASSOCIATION,C01409,0.77,A linked vehicle/person was observed at a monitored synthetic location.
+A00007,P0280,LOCATION_ASSOCIATION,T00052,0.93,A linked vehicle/person was observed at a monitored synthetic location.
+A00008,P0478,LOCATION_ASSOCIATION,C05362,0.69,A linked vehicle/person was observed at a monitored synthetic location.
+A00009,P0422,LOCATION_ASSOCIATION,C05675,0.68,A linked vehicle/person was observed at a monitored synthetic location.
+A00010,P0178,HIGH_CALL_ACTIVITY,C03398,0.91,Repeated communication was detected between connected entities.
+A00011,P0269,LOCATION_ASSOCIATION,C02773,0.64,A linked vehicle/person was observed at a monitored synthetic location.
+A00012,P0211,UNUSUAL_TRANSACTION,C01264,0.94,Transaction pattern deviates from the synthetic baseline.
+A00013,P0041,UNUSUAL_TRANSACTION,T00038,0.73,Transaction pattern deviates from the synthetic baseline.
+A00014,P0368,DENSE_NETWORK_CLUSTER,F00313,0.88,Entity is located in a densely connected synthetic graph cluster.
+A00015,P0144,HIGH_CALL_ACTIVITY,C02802,0.94,Repeated communication was detected between connected entities.
+A00016,P0384,HIGH_CALL_ACTIVITY,C04522,0.64,Repeated communication was detected between connected entities.
+A00017,P0075,LOCATION_ASSOCIATION,C02646,0.75,A linked vehicle/person was observed at a monitored synthetic location.
+A00018,P0466,HIGH_CALL_ACTIVITY,T02327,0.83,Repeated communication was detected between connected entities.
+A00019,P0276,HIGH_CALL_ACTIVITY,T00159,0.72,Repeated communication was detected between connected entities.
+A00020,P0316,LOCATION_ASSOCIATION,T00757,0.72,A linked vehicle/person was observed at a monitored synthetic location.
+A00021,P0142,LOCATION_ASSOCIATION,T00675,0.96,A linked vehicle/person was observed at a monitored synthetic location.
+A00022,P0116,LOCATION_ASSOCIATION,T00619,0.74,A linked vehicle/person was observed at a monitored synthetic location.
+A00023,P0319,DENSE_NETWORK_CLUSTER,C03165,0.81,Entity is located in a densely connected synthetic graph cluster.
+A00024,P0319,DENSE_NETWORK_CLUSTER,C04274,0.62,Entity is located in a densely connected synthetic graph cluster.
+A00025,P0480,DENSE_NETWORK_CLUSTER,C05552,0.77,Entity is located in a densely connected synthetic graph cluster.
+A00026,P0003,DENSE_NETWORK_CLUSTER,T01359,0.96,Entity is located in a densely connected synthetic graph cluster.
+A00027,P0305,LOCATION_ASSOCIATION,F00534,0.64,A linked vehicle/person was observed at a monitored synthetic location.
+A00028,P0002,UNUSUAL_TRANSACTION,C03117,0.65,Transaction pattern deviates from the synthetic baseline.
+A00029,P0455,DENSE_NETWORK_CLUSTER,T00166,0.67,Entity is located in a densely connected synthetic graph cluster.
+A00030,P0016,HIGH_CALL_ACTIVITY,C01301,0.75,Repeated communication was detected between connected entities.
+A00031,P0290,DENSE_NETWORK_CLUSTER,C00452,0.81,Entity is located in a densely connected synthetic graph cluster.
+A00032,P0464,HIGH_CALL_ACTIVITY,T01135,0.75,Repeated communication was detected between connected entities.
+A00033,P0237,UNUSUAL_TRANSACTION,T01766,0.68,Transaction pattern deviates from the synthetic baseline.
+A00034,P0070,HIGH_CALL_ACTIVITY,C03361,0.77,Repeated communication was detected between connected entities.
+A00035,P0252,UNUSUAL_TRANSACTION,C03501,0.92,Transaction pattern deviates from the synthetic baseline.
+A00036,P0013,HIGH_CALL_ACTIVITY,T01904,0.63,Repeated communication was detected between connected entities.
+A00037,P0182,UNUSUAL_TRANSACTION,C03546,0.92,Transaction pattern deviates from the synthetic baseline.
+A00038,P0466,HIGH_CALL_ACTIVITY,C02389,0.76,Repeated communication was detected between connected entities.
+A00039,P0021,UNUSUAL_TRANSACTION,T02900,0.78,Transaction pattern deviates from the synthetic baseline.
+A00040,P0322,HIGH_CALL_ACTIVITY,T00887,0.69,Repeated communication was detected between connected entities.
+A00041,P0193,HIGH_CALL_ACTIVITY,T01894,0.88,Repeated communication was detected between connected entities.
+A00042,P0083,UNUSUAL_TRANSACTION,T02844,0.87,Transaction pattern deviates from the synthetic baseline.
+A00043,P0025,UNUSUAL_TRANSACTION,C02925,0.64,Transaction pattern deviates from the synthetic baseline.
+A00044,P0057,HIGH_CALL_ACTIVITY,C04918,0.91,Repeated communication was detected between connected entities.
+A00045,P0040,DENSE_NETWORK_CLUSTER,C04662,0.97,Entity is located in a densely connected synthetic graph cluster.
+A00046,P0331,DENSE_NETWORK_CLUSTER,T00693,0.92,Entity is located in a densely connected synthetic graph cluster.
+A00047,P0276,HIGH_CALL_ACTIVITY,C04194,0.8,Repeated communication was detected between connected entities.
+A00048,P0124,HIGH_CALL_ACTIVITY,C03226,0.83,Repeated communication was detected between connected entities.
+A00049,P0230,LOCATION_ASSOCIATION,T02837,0.86,A linked vehicle/person was observed at a monitored synthetic location.
+A00050,P0350,DENSE_NETWORK_CLUSTER,C04315,0.64,Entity is located in a densely connected synthetic graph cluster.
+A00051,P0074,UNUSUAL_TRANSACTION,C03418,0.64,Transaction pattern deviates from the synthetic baseline.
+A00052,P0154,DENSE_NETWORK_CLUSTER,T00128,0.96,Entity is located in a densely connected synthetic graph cluster.
+A00053,P0348,UNUSUAL_TRANSACTION,T00216,0.63,Transaction pattern deviates from the synthetic baseline.
+A00054,P0483,DENSE_NETWORK_CLUSTER,C04987,0.78,Entity is located in a densely connected synthetic graph cluster.
+A00055,P0264,HIGH_CALL_ACTIVITY,T00468,0.89,Repeated communication was detected between connected entities.
+A00056,P0320,LOCATION_ASSOCIATION,T01998,0.64,A linked vehicle/person was observed at a monitored synthetic location.
+A00057,P0414,HIGH_CALL_ACTIVITY,C04663,0.7,Repeated communication was detected between connected entities.
+A00058,P0314,LOCATION_ASSOCIATION,T00269,0.92,A linked vehicle/person was observed at a monitored synthetic location.
+A00059,P0238,HIGH_CALL_ACTIVITY,C05810,0.74,Repeated communication was detected between connected entities.
+A00060,P0419,DENSE_NETWORK_CLUSTER,C05177,0.85,Entity is located in a densely connected synthetic graph cluster.
+A00061,P0412,LOCATION_ASSOCIATION,C05145,0.74,A linked vehicle/person was observed at a monitored synthetic location.
+A00062,P0435,LOCATION_ASSOCIATION,F00618,0.88,A linked vehicle/person was observed at a monitored synthetic location.
+A00063,P0098,HIGH_CALL_ACTIVITY,T02483,0.97,Repeated communication was detected between connected entities.
+A00064,P0377,HIGH_CALL_ACTIVITY,C05243,0.64,Repeated communication was detected between connected entities.
+A00065,P0463,UNUSUAL_TRANSACTION,C03729,0.86,Transaction pattern deviates from the synthetic baseline.
+A00066,P0417,UNUSUAL_TRANSACTION,T00820,0.8,Transaction pattern deviates from the synthetic baseline.
+A00067,P0491,HIGH_CALL_ACTIVITY,C01685,0.87,Repeated communication was detected between connected entities.
+A00068,P0324,HIGH_CALL_ACTIVITY,F00738,0.65,Repeated communication was detected between connected entities.
+A00069,P0269,LOCATION_ASSOCIATION,C00568,0.69,A linked vehicle/person was observed at a monitored synthetic location.
+A00070,P0418,UNUSUAL_TRANSACTION,C03159,0.93,Transaction pattern deviates from the synthetic baseline.
+A00071,P0315,UNUSUAL_TRANSACTION,T02188,0.88,Transaction pattern deviates from the synthetic baseline.
+A00072,P0441,DENSE_NETWORK_CLUSTER,T01618,0.63,Entity is located in a densely connected synthetic graph cluster.
+A00073,P0045,LOCATION_ASSOCIATION,C02588,0.92,A linked vehicle/person was observed at a monitored synthetic location.
+A00074,P0407,DENSE_NETWORK_CLUSTER,C02980,0.64,Entity is located in a densely connected synthetic graph cluster.
+A00075,P0251,UNUSUAL_TRANSACTION,C00244,0.79,Transaction pattern deviates from the synthetic baseline.
+A00076,P0474,UNUSUAL_TRANSACTION,C03182,0.87,Transaction pattern deviates from the synthetic baseline.
+A00077,P0314,UNUSUAL_TRANSACTION,C01540,0.91,Transaction pattern deviates from the synthetic baseline.
+A00078,P0427,UNUSUAL_TRANSACTION,T02767,0.93,Transaction pattern deviates from the synthetic baseline.
+A00079,P0092,DENSE_NETWORK_CLUSTER,F00926,0.8,Entity is located in a densely connected synthetic graph cluster.
+A00080,P0156,UNUSUAL_TRANSACTION,T00018,0.84,Transaction pattern deviates from the synthetic baseline.
+A00081,P0257,HIGH_CALL_ACTIVITY,T02062,0.69,Repeated communication was detected between connected entities.
+A00082,P0390,LOCATION_ASSOCIATION,F00868,0.83,A linked vehicle/person was observed at a monitored synthetic location.
+A00083,P0457,DENSE_NETWORK_CLUSTER,C05811,0.86,Entity is located in a densely connected synthetic graph cluster.
+A00084,P0281,HIGH_CALL_ACTIVITY,C00950,0.8,Repeated communication was detected between connected entities.
+A00085,P0269,HIGH_CALL_ACTIVITY,C04394,0.88,Repeated communication was detected between connected entities.
+A00086,P0163,LOCATION_ASSOCIATION,C00237,0.94,A linked vehicle/person was observed at a monitored synthetic location.
+A00087,P0321,UNUSUAL_TRANSACTION,T01069,0.89,Transaction pattern deviates from the synthetic baseline.
+A00088,P0424,UNUSUAL_TRANSACTION,T01931,0.95,Transaction pattern deviates from the synthetic baseline.
+A00089,P0427,HIGH_CALL_ACTIVITY,C03401,0.73,Repeated communication was detected between connected entities.
+A00090,P0382,LOCATION_ASSOCIATION,T01441,0.94,A linked vehicle/person was observed at a monitored synthetic location.
+A00091,P0432,LOCATION_ASSOCIATION,C01185,0.65,A linked vehicle/person was observed at a monitored synthetic location.
+A00092,P0455,HIGH_CALL_ACTIVITY,C05720,0.9,Repeated communication was detected between connected entities.
+A00093,P0254,DENSE_NETWORK_CLUSTER,F00608,0.93,Entity is located in a densely connected synthetic graph cluster.
+A00094,P0159,HIGH_CALL_ACTIVITY,F00010,0.65,Repeated communication was detected between connected entities.
+A00095,P0134,UNUSUAL_TRANSACTION,C01016,0.86,Transaction pattern deviates from the synthetic baseline.
+A00096,P0440,HIGH_CALL_ACTIVITY,C00270,0.84,Repeated communication was detected between connected entities.
+A00097,P0048,UNUSUAL_TRANSACTION,C01439,0.96,Transaction pattern deviates from the synthetic baseline.
+A00098,P0321,LOCATION_ASSOCIATION,T00864,0.68,A linked vehicle/person was observed at a monitored synthetic location.
+A00099,P0298,UNUSUAL_TRANSACTION,T02570,0.87,Transaction pattern deviates from the synthetic baseline.
+A00100,P0324,DENSE_NETWORK_CLUSTER,C05703,0.86,Entity is located in a densely connected synthetic graph cluster.
+A00101,P0255,DENSE_NETWORK_CLUSTER,C04553,0.71,Entity is located in a densely connected synthetic graph cluster.
+A00102,P0105,HIGH_CALL_ACTIVITY,C02395,0.92,Repeated communication was detected between connected entities.
+A00103,P0411,HIGH_CALL_ACTIVITY,C03082,0.61,Repeated communication was detected between connected entities.
+A00104,P0473,DENSE_NETWORK_CLUSTER,C05066,0.66,Entity is located in a densely connected synthetic graph cluster.
+A00105,P0098,HIGH_CALL_ACTIVITY,F00001,0.82,Repeated communication was detected between connected entities.
+A00106,P0046,UNUSUAL_TRANSACTION,C05089,0.81,Transaction pattern deviates from the synthetic baseline.
+A00107,P0475,UNUSUAL_TRANSACTION,T00871,0.81,Transaction pattern deviates from the synthetic baseline.
+A00108,P0139,UNUSUAL_TRANSACTION,T00674,0.96,Transaction pattern deviates from the synthetic baseline.
+A00109,P0450,DENSE_NETWORK_CLUSTER,C02267,0.63,Entity is located in a densely connected synthetic graph cluster.
+A00110,P0340,HIGH_CALL_ACTIVITY,T01082,0.76,Repeated communication was detected between connected entities.
+A00111,P0365,UNUSUAL_TRANSACTION,T00090,0.82,Transaction pattern deviates from the synthetic baseline.
+A00112,P0377,HIGH_CALL_ACTIVITY,C02968,0.7,Repeated communication was detected between connected entities.
+A00113,P0222,HIGH_CALL_ACTIVITY,T02551,0.66,Repeated communication was detected between connected entities.
+A00114,P0416,DENSE_NETWORK_CLUSTER,F00829,0.76,Entity is located in a densely connected synthetic graph cluster.
+A00115,P0214,UNUSUAL_TRANSACTION,T01430,0.93,Transaction pattern deviates from the synthetic baseline.
+A00116,P0189,LOCATION_ASSOCIATION,C01470,0.69,A linked vehicle/person was observed at a monitored synthetic location.
+A00117,P0017,UNUSUAL_TRANSACTION,T00047,0.85,Transaction pattern deviates from the synthetic baseline.
+A00118,P0036,HIGH_CALL_ACTIVITY,C00506,0.61,Repeated communication was detected between connected entities.
+A00119,P0021,LOCATION_ASSOCIATION,F00042,0.83,A linked vehicle/person was observed at a monitored synthetic location.
+A00120,P0374,UNUSUAL_TRANSACTION,C01765,0.92,Transaction pattern deviates from the synthetic baseline.
+A00121,P0130,LOCATION_ASSOCIATION,C03610,0.71,A linked vehicle/person was observed at a monitored synthetic location.
+A00122,P0406,HIGH_CALL_ACTIVITY,C04113,0.81,Repeated communication was detected between connected entities.
+A00123,P0140,UNUSUAL_TRANSACTION,C05527,0.87,Transaction pattern deviates from the synthetic baseline.
+A00124,P0064,HIGH_CALL_ACTIVITY,C05920,0.92,Repeated communication was detected between connected entities.
+A00125,P0423,DENSE_NETWORK_CLUSTER,T00174,0.67,Entity is located in a densely connected synthetic graph cluster.
+A00126,P0009,DENSE_NETWORK_CLUSTER,C03199,0.9,Entity is located in a densely connected synthetic graph cluster.
+A00127,P0236,LOCATION_ASSOCIATION,T01135,0.72,A linked vehicle/person was observed at a monitored synthetic location.
+A00128,P0215,UNUSUAL_TRANSACTION,F00245,0.63,Transaction pattern deviates from the synthetic baseline.
+A00129,P0048,HIGH_CALL_ACTIVITY,F00941,0.71,Repeated communication was detected between connected entities.
+A00130,P0324,UNUSUAL_TRANSACTION,C04853,0.88,Transaction pattern deviates from the synthetic baseline.
+A00131,P0037,HIGH_CALL_ACTIVITY,T01846,0.65,Repeated communication was detected between connected entities.
+A00132,P0443,LOCATION_ASSOCIATION,C01840,0.83,A linked vehicle/person was observed at a monitored synthetic location.
+A00133,P0480,DENSE_NETWORK_CLUSTER,C05787,0.61,Entity is located in a densely connected synthetic graph cluster.
+A00134,P0261,DENSE_NETWORK_CLUSTER,C03245,0.69,Entity is located in a densely connected synthetic graph cluster.
+A00135,P0034,DENSE_NETWORK_CLUSTER,C04292,0.73,Entity is located in a densely connected synthetic graph cluster.
+A00136,P0316,LOCATION_ASSOCIATION,T00773,0.67,A linked vehicle/person was observed at a monitored synthetic location.
+A00137,P0240,LOCATION_ASSOCIATION,T01218,0.78,A linked vehicle/person was observed at a monitored synthetic location.
+A00138,P0231,DENSE_NETWORK_CLUSTER,F00062,0.88,Entity is located in a densely connected synthetic graph cluster.
+A00139,P0101,HIGH_CALL_ACTIVITY,C01184,0.84,Repeated communication was detected between connected entities.
+A00140,P0445,DENSE_NETWORK_CLUSTER,T01420,0.93,Entity is located in a densely connected synthetic graph cluster.
+A00141,P0105,DENSE_NETWORK_CLUSTER,C02432,0.74,Entity is located in a densely connected synthetic graph cluster.
+A00142,P0461,DENSE_NETWORK_CLUSTER,T02627,0.67,Entity is located in a densely connected synthetic graph cluster.
+A00143,P0087,UNUSUAL_TRANSACTION,C00998,0.71,Transaction pattern deviates from the synthetic baseline.
+A00144,P0034,DENSE_NETWORK_CLUSTER,T00049,0.73,Entity is located in a densely connected synthetic graph cluster.
+A00145,P0493,UNUSUAL_TRANSACTION,C05373,0.63,Transaction pattern deviates from the synthetic baseline.
+A00146,P0485,HIGH_CALL_ACTIVITY,T01204,0.69,Repeated communication was detected between connected entities.
+A00147,P0354,LOCATION_ASSOCIATION,C00875,0.67,A linked vehicle/person was observed at a monitored synthetic location.
+A00148,P0157,HIGH_CALL_ACTIVITY,C01635,0.78,Repeated communication was detected between connected entities.
+A00149,P0045,HIGH_CALL_ACTIVITY,C03601,0.86,Repeated communication was detected between connected entities.
+A00150,P0227,HIGH_CALL_ACTIVITY,C02490,0.69,Repeated communication was detected between connected entities.
+A00151,P0262,HIGH_CALL_ACTIVITY,C03221,0.97,Repeated communication was detected between connected entities.
+A00152,P0132,HIGH_CALL_ACTIVITY,C00934,0.94,Repeated communication was detected between connected entities.
+A00153,P0062,HIGH_CALL_ACTIVITY,C02377,0.95,Repeated communication was detected between connected entities.
+A00154,P0123,UNUSUAL_TRANSACTION,C02575,0.89,Transaction pattern deviates from the synthetic baseline.
+A00155,P0110,UNUSUAL_TRANSACTION,C00062,0.9,Transaction pattern deviates from the synthetic baseline.
+A00156,P0241,HIGH_CALL_ACTIVITY,C03685,0.9,Repeated communication was detected between connected entities.
+A00157,P0146,LOCATION_ASSOCIATION,C04410,0.93,A linked vehicle/person was observed at a monitored synthetic location.
+A00158,P0143,UNUSUAL_TRANSACTION,C05558,0.64,Transaction pattern deviates from the synthetic baseline.
+A00159,P0340,DENSE_NETWORK_CLUSTER,C04611,0.83,Entity is located in a densely connected synthetic graph cluster.
+A00160,P0276,DENSE_NETWORK_CLUSTER,C00916,0.73,Entity is located in a densely connected synthetic graph cluster.
+A00161,P0131,UNUSUAL_TRANSACTION,C00745,0.73,Transaction pattern deviates from the synthetic baseline.
+A00162,P0380,HIGH_CALL_ACTIVITY,C05392,0.88,Repeated communication was detected between connected entities.
+A00163,P0419,LOCATION_ASSOCIATION,C05020,0.83,A linked vehicle/person was observed at a monitored synthetic location.
+A00164,P0027,HIGH_CALL_ACTIVITY,C03263,0.67,Repeated communication was detected between connected entities.
+A00165,P0498,HIGH_CALL_ACTIVITY,C01439,0.73,Repeated communication was detected between connected entities.
+A00166,P0465,HIGH_CALL_ACTIVITY,T02487,0.92,Repeated communication was detected between connected entities.
+A00167,P0094,HIGH_CALL_ACTIVITY,C03989,0.66,Repeated communication was detected between connected entities.
+A00168,P0025,UNUSUAL_TRANSACTION,T02280,0.75,Transaction pattern deviates from the synthetic baseline.
+A00169,P0056,DENSE_NETWORK_CLUSTER,C02816,0.75,Entity is located in a densely connected synthetic graph cluster.
+A00170,P0147,LOCATION_ASSOCIATION,T00334,0.62,A linked vehicle/person was observed at a monitored synthetic location.
+A00171,P0264,UNUSUAL_TRANSACTION,T01500,0.79,Transaction pattern deviates from the synthetic baseline.
+A00172,P0065,UNUSUAL_TRANSACTION,C01048,0.68,Transaction pattern deviates from the synthetic baseline.
+A00173,P0407,LOCATION_ASSOCIATION,T01968,0.83,A linked vehicle/person was observed at a monitored synthetic location.
+A00174,P0032,LOCATION_ASSOCIATION,C00891,0.67,A linked vehicle/person was observed at a monitored synthetic location.
+A00175,P0409,HIGH_CALL_ACTIVITY,T01997,0.7,Repeated communication was detected between connected entities.
+A00176,P0318,HIGH_CALL_ACTIVITY,C00151,0.85,Repeated communication was detected between connected entities.
+A00177,P0499,UNUSUAL_TRANSACTION,C03753,0.79,Transaction pattern deviates from the synthetic baseline.
+A00178,P0084,LOCATION_ASSOCIATION,T00032,0.68,A linked vehicle/person was observed at a monitored synthetic location.
+A00179,P0334,HIGH_CALL_ACTIVITY,C01305,0.73,Repeated communication was detected between connected entities.
+A00180,P0371,DENSE_NETWORK_CLUSTER,C03862,0.77,Entity is located in a densely connected synthetic graph cluster.
+A00181,P0023,HIGH_CALL_ACTIVITY,F00108,0.86,Repeated communication was detected between connected entities.
+A00182,P0174,DENSE_NETWORK_CLUSTER,T01234,0.65,Entity is located in a densely connected synthetic graph cluster.
+A00183,P0498,DENSE_NETWORK_CLUSTER,C00064,0.88,Entity is located in a densely connected synthetic graph cluster.
+A00184,P0110,HIGH_CALL_ACTIVITY,T00172,0.92,Repeated communication was detected between connected entities.
+A00185,P0014,DENSE_NETWORK_CLUSTER,C03177,0.73,Entity is located in a densely connected synthetic graph cluster.
+A00186,P0289,UNUSUAL_TRANSACTION,T00273,0.76,Transaction pattern deviates from the synthetic baseline.
+A00187,P0440,UNUSUAL_TRANSACTION,C02239,0.68,Transaction pattern deviates from the synthetic baseline.
+A00188,P0052,DENSE_NETWORK_CLUSTER,C05418,0.62,Entity is located in a densely connected synthetic graph cluster.
+A00189,P0270,UNUSUAL_TRANSACTION,C00269,0.72,Transaction pattern deviates from the synthetic baseline.
+A00190,P0170,HIGH_CALL_ACTIVITY,C01698,0.76,Repeated communication was detected between connected entities.
+A00191,P0492,HIGH_CALL_ACTIVITY,C02100,0.95,Repeated communication was detected between connected entities.
+A00192,P0209,LOCATION_ASSOCIATION,C02163,0.97,A linked vehicle/person was observed at a monitored synthetic location.
+A00193,P0054,UNUSUAL_TRANSACTION,F00404,0.8,Transaction pattern deviates from the synthetic baseline.
+A00194,P0215,LOCATION_ASSOCIATION,C04448,0.78,A linked vehicle/person was observed at a monitored synthetic location.
+A00195,P0100,HIGH_CALL_ACTIVITY,C04550,0.63,Repeated communication was detected between connected entities.
+A00196,P0056,HIGH_CALL_ACTIVITY,F00826,0.64,Repeated communication was detected between connected entities.
+A00197,P0403,DENSE_NETWORK_CLUSTER,T02873,0.95,Entity is located in a densely connected synthetic graph cluster.
+A00198,P0458,UNUSUAL_TRANSACTION,T00200,0.67,Transaction pattern deviates from the synthetic baseline.
+A00199,P0435,HIGH_CALL_ACTIVITY,T00834,0.89,Repeated communication was detected between connected entities.
+A00200,P0037,HIGH_CALL_ACTIVITY,T02506,0.64,Repeated communication was detected between connected entities.
+A00201,P0425,LOCATION_ASSOCIATION,T02422,0.77,A linked vehicle/person was observed at a monitored synthetic location.
+A00202,P0409,DENSE_NETWORK_CLUSTER,T02183,0.91,Entity is located in a densely connected synthetic graph cluster.
+A00203,P0238,UNUSUAL_TRANSACTION,C01220,0.61,Transaction pattern deviates from the synthetic baseline.
+A00204,P0298,UNUSUAL_TRANSACTION,F00594,0.69,Transaction pattern deviates from the synthetic baseline.
+A00205,P0102,HIGH_CALL_ACTIVITY,C00174,0.95,Repeated communication was detected between connected entities.
+A00206,P0232,DENSE_NETWORK_CLUSTER,C02955,0.73,Entity is located in a densely connected synthetic graph cluster.
+A00207,P0247,HIGH_CALL_ACTIVITY,C01417,0.74,Repeated communication was detected between connected entities.
+A00208,P0190,DENSE_NETWORK_CLUSTER,C02468,0.8,Entity is located in a densely connected synthetic graph cluster.
+A00209,P0289,UNUSUAL_TRANSACTION,T00652,0.97,Transaction pattern deviates from the synthetic baseline.
+A00210,P0036,LOCATION_ASSOCIATION,T02908,0.84,A linked vehicle/person was observed at a monitored synthetic location.
+A00211,P0404,UNUSUAL_TRANSACTION,C01505,0.61,Transaction pattern deviates from the synthetic baseline.
+A00212,P0006,HIGH_CALL_ACTIVITY,T01017,0.76,Repeated communication was detected between connected entities.
+A00213,P0407,LOCATION_ASSOCIATION,T02790,0.62,A linked vehicle/person was observed at a monitored synthetic location.
+A00214,P0278,HIGH_CALL_ACTIVITY,T01830,0.68,Repeated communication was detected between connected entities.
+A00215,P0251,DENSE_NETWORK_CLUSTER,F00755,0.83,Entity is located in a densely connected synthetic graph cluster.
+A00216,P0404,DENSE_NETWORK_CLUSTER,C03348,0.63,Entity is located in a densely connected synthetic graph cluster.
+A00217,P0178,HIGH_CALL_ACTIVITY,T00651,0.72,Repeated communication was detected between connected entities.
+A00218,P0146,LOCATION_ASSOCIATION,T02400,0.75,A linked vehicle/person was observed at a monitored synthetic location.
+A00219,P0174,DENSE_NETWORK_CLUSTER,C03738,0.84,Entity is located in a densely connected synthetic graph cluster.
+A00220,P0188,DENSE_NETWORK_CLUSTER,C04837,0.92,Entity is located in a densely connected synthetic graph cluster.
+A00221,P0118,HIGH_CALL_ACTIVITY,T02806,0.9,Repeated communication was detected between connected entities.
+A00222,P0358,HIGH_CALL_ACTIVITY,C03109,0.69,Repeated communication was detected between connected entities.
+A00223,P0053,LOCATION_ASSOCIATION,C02409,0.82,A linked vehicle/person was observed at a monitored synthetic location.
+A00224,P0296,UNUSUAL_TRANSACTION,C01311,0.81,Transaction pattern deviates from the synthetic baseline.
+A00225,P0216,DENSE_NETWORK_CLUSTER,C03055,0.92,Entity is located in a densely connected synthetic graph cluster.
+A00226,P0050,HIGH_CALL_ACTIVITY,T02017,0.73,Repeated communication was detected between connected entities.
+A00227,P0220,LOCATION_ASSOCIATION,T02202,0.8,A linked vehicle/person was observed at a monitored synthetic location.
+A00228,P0384,HIGH_CALL_ACTIVITY,C00553,0.74,Repeated communication was detected between connected entities.
+A00229,P0311,DENSE_NETWORK_CLUSTER,C02748,0.67,Entity is located in a densely connected synthetic graph cluster.
+A00230,P0145,HIGH_CALL_ACTIVITY,T02395,0.88,Repeated communication was detected between connected entities.
+A00231,P0263,HIGH_CALL_ACTIVITY,T00507,0.95,Repeated communication was detected between connected entities.
+A00232,P0302,LOCATION_ASSOCIATION,C04735,0.81,A linked vehicle/person was observed at a monitored synthetic location.
+A00233,P0010,UNUSUAL_TRANSACTION,C01220,0.96,Transaction pattern deviates from the synthetic baseline.
+A00234,P0015,HIGH_CALL_ACTIVITY,T02592,0.93,Repeated communication was detected between connected entities.
+A00235,P0052,HIGH_CALL_ACTIVITY,C01562,0.95,Repeated communication was detected between connected entities.
+A00236,P0289,HIGH_CALL_ACTIVITY,C04213,0.83,Repeated communication was detected between connected entities.
+A00237,P0149,DENSE_NETWORK_CLUSTER,C03423,0.67,Entity is located in a densely connected synthetic graph cluster.
+A00238,P0087,DENSE_NETWORK_CLUSTER,C03733,0.91,Entity is located in a densely connected synthetic graph cluster.
+A00239,P0407,LOCATION_ASSOCIATION,F00608,0.81,A linked vehicle/person was observed at a monitored synthetic location.
+A00240,P0360,HIGH_CALL_ACTIVITY,T02028,0.88,Repeated communication was detected between connected entities.
+A00241,P0024,HIGH_CALL_ACTIVITY,C03726,0.9,Repeated communication was detected between connected entities.
+A00242,P0082,UNUSUAL_TRANSACTION,C03820,0.66,Transaction pattern deviates from the synthetic baseline.
+A00243,P0107,UNUSUAL_TRANSACTION,T00722,0.86,Transaction pattern deviates from the synthetic baseline.
+A00244,P0407,LOCATION_ASSOCIATION,C00645,0.96,A linked vehicle/person was observed at a monitored synthetic location.
+A00245,P0385,LOCATION_ASSOCIATION,C01499,0.72,A linked vehicle/person was observed at a monitored synthetic location.
+A00246,P0105,HIGH_CALL_ACTIVITY,C05998,0.65,Repeated communication was detected between connected entities.
+A00247,P0122,UNUSUAL_TRANSACTION,C03823,0.83,Transaction pattern deviates from the synthetic baseline.
+A00248,P0157,HIGH_CALL_ACTIVITY,C00699,0.86,Repeated communication was detected between connected entities.
+A00249,P0035,HIGH_CALL_ACTIVITY,C03084,0.84,Repeated communication was detected between connected entities.
+A00250,P0105,LOCATION_ASSOCIATION,C02450,0.66,A linked vehicle/person was observed at a monitored synthetic location.
+A00251,P0294,LOCATION_ASSOCIATION,C01551,0.8,A linked vehicle/person was observed at a monitored synthetic location.
+A00252,P0383,HIGH_CALL_ACTIVITY,C04745,0.68,Repeated communication was detected between connected entities.
+A00253,P0190,DENSE_NETWORK_CLUSTER,C05559,0.61,Entity is located in a densely connected synthetic graph cluster.
+A00254,P0295,LOCATION_ASSOCIATION,T02998,0.71,A linked vehicle/person was observed at a monitored synthetic location.
+A00255,P0359,LOCATION_ASSOCIATION,C05897,0.73,A linked vehicle/person was observed at a monitored synthetic location.
+A00256,P0304,UNUSUAL_TRANSACTION,C03508,0.93,Transaction pattern deviates from the synthetic baseline.
+A00257,P0205,LOCATION_ASSOCIATION,C04584,0.72,A linked vehicle/person was observed at a monitored synthetic location.
+A00258,P0064,LOCATION_ASSOCIATION,T01832,0.71,A linked vehicle/person was observed at a monitored synthetic location.
+A00259,P0154,DENSE_NETWORK_CLUSTER,F00692,0.78,Entity is located in a densely connected synthetic graph cluster.
+A00260,P0215,LOCATION_ASSOCIATION,C04029,0.66,A linked vehicle/person was observed at a monitored synthetic location.
+A00261,P0105,HIGH_CALL_ACTIVITY,C02527,0.9,Repeated communication was detected between connected entities.
+A00262,P0316,DENSE_NETWORK_CLUSTER,C00898,0.7,Entity is located in a densely connected synthetic graph cluster.
+A00263,P0124,HIGH_CALL_ACTIVITY,C00989,0.84,Repeated communication was detected between connected entities.
+A00264,P0061,UNUSUAL_TRANSACTION,C02519,0.64,Transaction pattern deviates from the synthetic baseline.
+A00265,P0401,DENSE_NETWORK_CLUSTER,C00149,0.7,Entity is located in a densely connected synthetic graph cluster.
+A00266,P0110,DENSE_NETWORK_CLUSTER,F00405,0.76,Entity is located in a densely connected synthetic graph cluster.
+A00267,P0180,UNUSUAL_TRANSACTION,F00150,0.7,Transaction pattern deviates from the synthetic baseline.
+A00268,P0097,DENSE_NETWORK_CLUSTER,C02156,0.69,Entity is located in a densely connected synthetic graph cluster.
+A00269,P0055,DENSE_NETWORK_CLUSTER,C05040,0.82,Entity is located in a densely connected synthetic graph cluster.
+A00270,P0315,DENSE_NETWORK_CLUSTER,F00013,0.66,Entity is located in a densely connected synthetic graph cluster.
+A00271,P0211,UNUSUAL_TRANSACTION,T01877,0.85,Transaction pattern deviates from the synthetic baseline.
+A00272,P0058,DENSE_NETWORK_CLUSTER,C04705,0.65,Entity is located in a densely connected synthetic graph cluster.
+A00273,P0336,DENSE_NETWORK_CLUSTER,C04140,0.97,Entity is located in a densely connected synthetic graph cluster.
+A00274,P0240,LOCATION_ASSOCIATION,C01192,0.85,A linked vehicle/person was observed at a monitored synthetic location.
+A00275,P0414,DENSE_NETWORK_CLUSTER,T02042,0.79,Entity is located in a densely connected synthetic graph cluster.
+A00276,P0157,HIGH_CALL_ACTIVITY,C05992,0.64,Repeated communication was detected between connected entities.
+A00277,P0359,UNUSUAL_TRANSACTION,T01091,0.73,Transaction pattern deviates from the synthetic baseline.
+A00278,P0258,DENSE_NETWORK_CLUSTER,F00162,0.76,Entity is located in a densely connected synthetic graph cluster.
+A00279,P0035,DENSE_NETWORK_CLUSTER,T01815,0.7,Entity is located in a densely connected synthetic graph cluster.
+A00280,P0252,DENSE_NETWORK_CLUSTER,C05588,0.91,Entity is located in a densely connected synthetic graph cluster.
+A00281,P0453,UNUSUAL_TRANSACTION,T00274,0.65,Transaction pattern deviates from the synthetic baseline.
+A00282,P0479,DENSE_NETWORK_CLUSTER,T01872,0.62,Entity is located in a densely connected synthetic graph cluster.
+A00283,P0382,DENSE_NETWORK_CLUSTER,F00337,0.83,Entity is located in a densely connected synthetic graph cluster.
+A00284,P0371,LOCATION_ASSOCIATION,C05752,0.63,A linked vehicle/person was observed at a monitored synthetic location.
+A00285,P0402,LOCATION_ASSOCIATION,C00978,0.69,A linked vehicle/person was observed at a monitored synthetic location.
+A00286,P0475,HIGH_CALL_ACTIVITY,F00028,0.83,Repeated communication was detected between connected entities.
+A00287,P0452,DENSE_NETWORK_CLUSTER,C02454,0.71,Entity is located in a densely connected synthetic graph cluster.
+A00288,P0171,HIGH_CALL_ACTIVITY,T00658,0.95,Repeated communication was detected between connected entities.
+A00289,P0411,DENSE_NETWORK_CLUSTER,F00180,0.85,Entity is located in a densely connected synthetic graph cluster.
+A00290,P0005,HIGH_CALL_ACTIVITY,F00121,0.95,Repeated communication was detected between connected entities.
+A00291,P0158,DENSE_NETWORK_CLUSTER,C01652,0.86,Entity is located in a densely connected synthetic graph cluster.
+A00292,P0416,LOCATION_ASSOCIATION,C05193,0.7,A linked vehicle/person was observed at a monitored synthetic location.
+A00293,P0438,UNUSUAL_TRANSACTION,C01840,0.9,Transaction pattern deviates from the synthetic baseline.
+A00294,P0250,LOCATION_ASSOCIATION,C05212,0.89,A linked vehicle/person was observed at a monitored synthetic location.
+A00295,P0189,HIGH_CALL_ACTIVITY,F00378,0.85,Repeated communication was detected between connected entities.
+A00296,P0271,HIGH_CALL_ACTIVITY,C01530,0.96,Repeated communication was detected between connected entities.
+A00297,P0226,UNUSUAL_TRANSACTION,F00706,0.93,Transaction pattern deviates from the synthetic baseline.
+A00298,P0327,DENSE_NETWORK_CLUSTER,C05023,0.74,Entity is located in a densely connected synthetic graph cluster.
+A00299,P0071,LOCATION_ASSOCIATION,T00602,0.76,A linked vehicle/person was observed at a monitored synthetic location.
+A00300,P0110,UNUSUAL_TRANSACTION,T02301,0.72,Transaction pattern deviates from the synthetic baseline.
+A00301,P0142,LOCATION_ASSOCIATION,C03610,0.87,A linked vehicle/person was observed at a monitored synthetic location.
+A00302,P0397,LOCATION_ASSOCIATION,C04598,0.82,A linked vehicle/person was observed at a monitored synthetic location.
+A00303,P0245,LOCATION_ASSOCIATION,T01935,0.81,A linked vehicle/person was observed at a monitored synthetic location.
+A00304,P0355,DENSE_NETWORK_CLUSTER,T01040,0.8,Entity is located in a densely connected synthetic graph cluster.
+A00305,P0400,HIGH_CALL_ACTIVITY,T02414,0.88,Repeated communication was detected between connected entities.
+A00306,P0344,LOCATION_ASSOCIATION,F00532,0.64,A linked vehicle/person was observed at a monitored synthetic location.
+A00307,P0298,DENSE_NETWORK_CLUSTER,C01979,0.87,Entity is located in a densely connected synthetic graph cluster.
+A00308,P0225,DENSE_NETWORK_CLUSTER,C02364,0.93,Entity is located in a densely connected synthetic graph cluster.
+A00309,P0303,LOCATION_ASSOCIATION,F00121,0.61,A linked vehicle/person was observed at a monitored synthetic location.
+A00310,P0388,HIGH_CALL_ACTIVITY,C03542,0.72,Repeated communication was detected between connected entities.
+A00311,P0456,UNUSUAL_TRANSACTION,T02606,0.76,Transaction pattern deviates from the synthetic baseline.
+A00312,P0366,DENSE_NETWORK_CLUSTER,C04239,0.77,Entity is located in a densely connected synthetic graph cluster.
+A00313,P0251,UNUSUAL_TRANSACTION,F00411,0.94,Transaction pattern deviates from the synthetic baseline.
+A00314,P0364,DENSE_NETWORK_CLUSTER,T01464,0.74,Entity is located in a densely connected synthetic graph cluster.
+A00315,P0054,DENSE_NETWORK_CLUSTER,T01485,0.66,Entity is located in a densely connected synthetic graph cluster.
+A00316,P0323,UNUSUAL_TRANSACTION,C02727,0.68,Transaction pattern deviates from the synthetic baseline.
+A00317,P0439,UNUSUAL_TRANSACTION,C03866,0.82,Transaction pattern deviates from the synthetic baseline.
+A00318,P0083,UNUSUAL_TRANSACTION,C00360,0.95,Transaction pattern deviates from the synthetic baseline.
+A00319,P0408,LOCATION_ASSOCIATION,C05183,0.61,A linked vehicle/person was observed at a monitored synthetic location.
+A00320,P0422,DENSE_NETWORK_CLUSTER,C02219,0.7,Entity is located in a densely connected synthetic graph cluster.
+A00321,P0153,LOCATION_ASSOCIATION,C00002,0.96,A linked vehicle/person was observed at a monitored synthetic location.
+A00322,P0014,UNUSUAL_TRANSACTION,C03736,0.77,Transaction pattern deviates from the synthetic baseline.
+A00323,P0450,HIGH_CALL_ACTIVITY,C04969,0.77,Repeated communication was detected between connected entities.
+A00324,P0155,HIGH_CALL_ACTIVITY,C04973,0.68,Repeated communication was detected between connected entities.
+A00325,P0181,DENSE_NETWORK_CLUSTER,F00611,0.75,Entity is located in a densely connected synthetic graph cluster.
+A00326,P0352,UNUSUAL_TRANSACTION,C05223,0.84,Transaction pattern deviates from the synthetic baseline.
+A00327,P0032,HIGH_CALL_ACTIVITY,C03306,0.94,Repeated communication was detected between connected entities.
+A00328,P0015,DENSE_NETWORK_CLUSTER,T01625,0.81,Entity is located in a densely connected synthetic graph cluster.
+A00329,P0089,LOCATION_ASSOCIATION,T00435,0.67,A linked vehicle/person was observed at a monitored synthetic location.
+A00330,P0462,LOCATION_ASSOCIATION,C05515,0.73,A linked vehicle/person was observed at a monitored synthetic location.
+A00331,P0130,HIGH_CALL_ACTIVITY,C02376,0.74,Repeated communication was detected between connected entities.
+A00332,P0484,UNUSUAL_TRANSACTION,T01330,0.9,Transaction pattern deviates from the synthetic baseline.
+A00333,P0308,DENSE_NETWORK_CLUSTER,C00061,0.96,Entity is located in a densely connected synthetic graph cluster.
+A00334,P0422,UNUSUAL_TRANSACTION,F00379,0.6,Transaction pattern deviates from the synthetic baseline.
+A00335,P0022,LOCATION_ASSOCIATION,T01492,0.82,A linked vehicle/person was observed at a monitored synthetic location.
+A00336,P0465,LOCATION_ASSOCIATION,F00514,0.88,A linked vehicle/person was observed at a monitored synthetic location.
+A00337,P0023,LOCATION_ASSOCIATION,C01429,0.97,A linked vehicle/person was observed at a monitored synthetic location.
+A00338,P0267,LOCATION_ASSOCIATION,T02472,0.94,A linked vehicle/person was observed at a monitored synthetic location.
+A00339,P0260,HIGH_CALL_ACTIVITY,T00111,0.79,Repeated communication was detected between connected entities.
+A00340,P0448,UNUSUAL_TRANSACTION,C03031,0.88,Transaction pattern deviates from the synthetic baseline.
+A00341,P0030,HIGH_CALL_ACTIVITY,T01656,0.66,Repeated communication was detected between connected entities.
+A00342,P0414,UNUSUAL_TRANSACTION,C01192,0.7,Transaction pattern deviates from the synthetic baseline.
+A00343,P0221,LOCATION_ASSOCIATION,C00609,0.88,A linked vehicle/person was observed at a monitored synthetic location.
+A00344,P0207,LOCATION_ASSOCIATION,T01255,0.96,A linked vehicle/person was observed at a monitored synthetic location.
+A00345,P0446,UNUSUAL_TRANSACTION,C03762,0.66,Transaction pattern deviates from the synthetic baseline.
+A00346,P0174,UNUSUAL_TRANSACTION,C05389,0.74,Transaction pattern deviates from the synthetic baseline.
+A00347,P0289,DENSE_NETWORK_CLUSTER,C04341,0.83,Entity is located in a densely connected synthetic graph cluster.
+A00348,P0267,DENSE_NETWORK_CLUSTER,T00737,0.78,Entity is located in a densely connected synthetic graph cluster.
+A00349,P0060,UNUSUAL_TRANSACTION,C02847,0.67,Transaction pattern deviates from the synthetic baseline.
+A00350,P0097,DENSE_NETWORK_CLUSTER,F00183,0.66,Entity is located in a densely connected synthetic graph cluster.
+A00351,P0401,DENSE_NETWORK_CLUSTER,T02690,0.87,Entity is located in a densely connected synthetic graph cluster.
+A00352,P0032,DENSE_NETWORK_CLUSTER,C00409,0.78,Entity is located in a densely connected synthetic graph cluster.
+A00353,P0299,LOCATION_ASSOCIATION,T02050,0.66,A linked vehicle/person was observed at a monitored synthetic location.
+A00354,P0028,LOCATION_ASSOCIATION,C02177,0.82,A linked vehicle/person was observed at a monitored synthetic location.
+A00355,P0376,DENSE_NETWORK_CLUSTER,T01598,0.73,Entity is located in a densely connected synthetic graph cluster.
+A00356,P0018,DENSE_NETWORK_CLUSTER,C03770,0.91,Entity is located in a densely connected synthetic graph cluster.
+A00357,P0074,DENSE_NETWORK_CLUSTER,T01489,0.86,Entity is located in a densely connected synthetic graph cluster.
+A00358,P0303,LOCATION_ASSOCIATION,C03083,0.65,A linked vehicle/person was observed at a monitored synthetic location.
+A00359,P0085,LOCATION_ASSOCIATION,C00756,0.83,A linked vehicle/person was observed at a monitored synthetic location.
+A00360,P0368,DENSE_NETWORK_CLUSTER,C00096,0.84,Entity is located in a densely connected synthetic graph cluster.
+A00361,P0126,DENSE_NETWORK_CLUSTER,T00816,0.8,Entity is located in a densely connected synthetic graph cluster.
+A00362,P0289,LOCATION_ASSOCIATION,T02088,0.61,A linked vehicle/person was observed at a monitored synthetic location.
+A00363,P0060,UNUSUAL_TRANSACTION,T02461,0.74,Transaction pattern deviates from the synthetic baseline.
+A00364,P0168,DENSE_NETWORK_CLUSTER,C04102,0.65,Entity is located in a densely connected synthetic graph cluster.
+A00365,P0038,DENSE_NETWORK_CLUSTER,C04209,0.67,Entity is located in a densely connected synthetic graph cluster.
+A00366,P0396,UNUSUAL_TRANSACTION,T01143,0.69,Transaction pattern deviates from the synthetic baseline.
+A00367,P0157,DENSE_NETWORK_CLUSTER,C01294,0.88,Entity is located in a densely connected synthetic graph cluster.
+A00368,P0347,DENSE_NETWORK_CLUSTER,C05234,0.85,Entity is located in a densely connected synthetic graph cluster.
+A00369,P0267,DENSE_NETWORK_CLUSTER,C00396,0.76,Entity is located in a densely connected synthetic graph cluster.
+A00370,P0401,DENSE_NETWORK_CLUSTER,C03880,0.97,Entity is located in a densely connected synthetic graph cluster.
+A00371,P0413,UNUSUAL_TRANSACTION,C02728,0.7,Transaction pattern deviates from the synthetic baseline.
+A00372,P0165,DENSE_NETWORK_CLUSTER,F00593,0.95,Entity is located in a densely connected synthetic graph cluster.
+A00373,P0446,DENSE_NETWORK_CLUSTER,F00031,0.65,Entity is located in a densely connected synthetic graph cluster.
+A00374,P0469,LOCATION_ASSOCIATION,T02336,0.69,A linked vehicle/person was observed at a monitored synthetic location.
+A00375,P0404,LOCATION_ASSOCIATION,C01432,0.75,A linked vehicle/person was observed at a monitored synthetic location.
+A00376,P0202,UNUSUAL_TRANSACTION,C04692,0.62,Transaction pattern deviates from the synthetic baseline.
+A00377,P0498,HIGH_CALL_ACTIVITY,C05370,0.63,Repeated communication was detected between connected entities.
+A00378,P0350,LOCATION_ASSOCIATION,T01386,0.68,A linked vehicle/person was observed at a monitored synthetic location.
+A00379,P0001,DENSE_NETWORK_CLUSTER,C04794,0.75,Entity is located in a densely connected synthetic graph cluster.
+A00380,P0187,HIGH_CALL_ACTIVITY,C04567,0.79,Repeated communication was detected between connected entities.
+A00381,P0154,HIGH_CALL_ACTIVITY,C01400,0.63,Repeated communication was detected between connected entities.
+A00382,P0159,LOCATION_ASSOCIATION,C00273,0.96,A linked vehicle/person was observed at a monitored synthetic location.
+A00383,P0159,LOCATION_ASSOCIATION,C03824,0.68,A linked vehicle/person was observed at a monitored synthetic location.
+A00384,P0361,LOCATION_ASSOCIATION,T00679,0.82,A linked vehicle/person was observed at a monitored synthetic location.
+A00385,P0078,LOCATION_ASSOCIATION,C00211,0.64,A linked vehicle/person was observed at a monitored synthetic location.
+A00386,P0265,LOCATION_ASSOCIATION,F00831,0.91,A linked vehicle/person was observed at a monitored synthetic location.
+A00387,P0287,DENSE_NETWORK_CLUSTER,C04305,0.76,Entity is located in a densely connected synthetic graph cluster.
+A00388,P0460,LOCATION_ASSOCIATION,T02535,0.93,A linked vehicle/person was observed at a monitored synthetic location.
+A00389,P0007,LOCATION_ASSOCIATION,C02246,0.94,A linked vehicle/person was observed at a monitored synthetic location.
+A00390,P0079,HIGH_CALL_ACTIVITY,C04937,0.79,Repeated communication was detected between connected entities.
+A00391,P0151,HIGH_CALL_ACTIVITY,C02330,0.68,Repeated communication was detected between connected entities.
+A00392,P0448,HIGH_CALL_ACTIVITY,T02309,0.84,Repeated communication was detected between connected entities.
+A00393,P0161,LOCATION_ASSOCIATION,C05391,0.63,A linked vehicle/person was observed at a monitored synthetic location.
+A00394,P0489,LOCATION_ASSOCIATION,C00525,0.74,A linked vehicle/person was observed at a monitored synthetic location.
+A00395,P0372,LOCATION_ASSOCIATION,C00861,0.61,A linked vehicle/person was observed at a monitored synthetic location.
+A00396,P0348,UNUSUAL_TRANSACTION,T00397,0.78,Transaction pattern deviates from the synthetic baseline.
+A00397,P0146,DENSE_NETWORK_CLUSTER,C01568,0.81,Entity is located in a densely connected synthetic graph cluster.
+A00398,P0037,HIGH_CALL_ACTIVITY,C00576,0.91,Repeated communication was detected between connected entities.
+A00399,P0056,UNUSUAL_TRANSACTION,C01768,0.91,Transaction pattern deviates from the synthetic baseline.
+A00400,P0352,HIGH_CALL_ACTIVITY,T02556,0.67,Repeated communication was detected between connected entities.
+A00401,P0354,UNUSUAL_TRANSACTION,C05705,0.74,Transaction pattern deviates from the synthetic baseline.
+A00402,P0201,LOCATION_ASSOCIATION,C01899,0.92,A linked vehicle/person was observed at a monitored synthetic location.
+A00403,P0363,UNUSUAL_TRANSACTION,C03794,0.82,Transaction pattern deviates from the synthetic baseline.
+A00404,P0336,DENSE_NETWORK_CLUSTER,C00158,0.87,Entity is located in a densely connected synthetic graph cluster.
+A00405,P0488,DENSE_NETWORK_CLUSTER,C00622,0.95,Entity is located in a densely connected synthetic graph cluster.
+A00406,P0314,HIGH_CALL_ACTIVITY,C02845,0.63,Repeated communication was detected between connected entities.
+A00407,P0437,LOCATION_ASSOCIATION,T00763,0.62,A linked vehicle/person was observed at a monitored synthetic location.
+A00408,P0083,UNUSUAL_TRANSACTION,F00776,0.85,Transaction pattern deviates from the synthetic baseline.
+A00409,P0289,DENSE_NETWORK_CLUSTER,C05715,0.94,Entity is located in a densely connected synthetic graph cluster.
+A00410,P0186,LOCATION_ASSOCIATION,T01937,0.85,A linked vehicle/person was observed at a monitored synthetic location.
+A00411,P0226,HIGH_CALL_ACTIVITY,C05967,0.83,Repeated communication was detected between connected entities.
+A00412,P0471,LOCATION_ASSOCIATION,C04460,0.77,A linked vehicle/person was observed at a monitored synthetic location.
+A00413,P0341,LOCATION_ASSOCIATION,C01614,0.94,A linked vehicle/person was observed at a monitored synthetic location.
+A00414,P0358,UNUSUAL_TRANSACTION,C02175,0.61,Transaction pattern deviates from the synthetic baseline.
+A00415,P0209,LOCATION_ASSOCIATION,C05251,0.6,A linked vehicle/person was observed at a monitored synthetic location.
+A00416,P0292,UNUSUAL_TRANSACTION,T01843,0.61,Transaction pattern deviates from the synthetic baseline.
+A00417,P0316,LOCATION_ASSOCIATION,C03465,0.6,A linked vehicle/person was observed at a monitored synthetic location.
+A00418,P0322,LOCATION_ASSOCIATION,T01294,0.63,A linked vehicle/person was observed at a monitored synthetic location.
+A00419,P0110,LOCATION_ASSOCIATION,C04234,0.64,A linked vehicle/person was observed at a monitored synthetic location.
+A00420,P0055,HIGH_CALL_ACTIVITY,T00364,0.9,Repeated communication was detected between connected entities.
+A00421,P0415,HIGH_CALL_ACTIVITY,C05038,0.9,Repeated communication was detected between connected entities.
+A00422,P0104,DENSE_NETWORK_CLUSTER,C00428,0.65,Entity is located in a densely connected synthetic graph cluster.
+A00423,P0096,DENSE_NETWORK_CLUSTER,T02637,0.67,Entity is located in a densely connected synthetic graph cluster.
+A00424,P0003,UNUSUAL_TRANSACTION,T02043,0.76,Transaction pattern deviates from the synthetic baseline.
+A00425,P0085,LOCATION_ASSOCIATION,C00152,0.65,A linked vehicle/person was observed at a monitored synthetic location.
+A00426,P0207,HIGH_CALL_ACTIVITY,C05296,0.88,Repeated communication was detected between connected entities.
+A00427,P0282,DENSE_NETWORK_CLUSTER,F00681,0.94,Entity is located in a densely connected synthetic graph cluster.
+A00428,P0192,LOCATION_ASSOCIATION,C02598,0.81,A linked vehicle/person was observed at a monitored synthetic location.
+A00429,P0049,UNUSUAL_TRANSACTION,C00932,0.9,Transaction pattern deviates from the synthetic baseline.
+A00430,P0070,UNUSUAL_TRANSACTION,T00944,0.82,Transaction pattern deviates from the synthetic baseline.
+A00431,P0221,DENSE_NETWORK_CLUSTER,C00684,0.8,Entity is located in a densely connected synthetic graph cluster.
+A00432,P0073,HIGH_CALL_ACTIVITY,T02896,0.77,Repeated communication was detected between connected entities.
+A00433,P0487,HIGH_CALL_ACTIVITY,C05802,0.6,Repeated communication was detected between connected entities.
+A00434,P0099,LOCATION_ASSOCIATION,C00539,0.89,A linked vehicle/person was observed at a monitored synthetic location.
+A00435,P0025,UNUSUAL_TRANSACTION,T01684,0.62,Transaction pattern deviates from the synthetic baseline.
+A00436,P0230,DENSE_NETWORK_CLUSTER,C04702,0.62,Entity is located in a densely connected synthetic graph cluster.
+A00437,P0128,UNUSUAL_TRANSACTION,T00154,0.62,Transaction pattern deviates from the synthetic baseline.
+A00438,P0014,HIGH_CALL_ACTIVITY,C02319,0.75,Repeated communication was detected between connected entities.
+A00439,P0441,HIGH_CALL_ACTIVITY,C04154,0.7,Repeated communication was detected between connected entities.
+A00440,P0115,DENSE_NETWORK_CLUSTER,C05051,0.91,Entity is located in a densely connected synthetic graph cluster.
+A00441,P0479,LOCATION_ASSOCIATION,T00877,0.79,A linked vehicle/person was observed at a monitored synthetic location.
+A00442,P0410,DENSE_NETWORK_CLUSTER,T02291,0.66,Entity is located in a densely connected synthetic graph cluster.
+A00443,P0442,HIGH_CALL_ACTIVITY,C04166,0.78,Repeated communication was detected between connected entities.
+A00444,P0228,HIGH_CALL_ACTIVITY,C04614,0.76,Repeated communication was detected between connected entities.
+A00445,P0170,DENSE_NETWORK_CLUSTER,F00579,0.79,Entity is located in a densely connected synthetic graph cluster.
+A00446,P0219,DENSE_NETWORK_CLUSTER,C02152,0.92,Entity is located in a densely connected synthetic graph cluster.
+A00447,P0173,LOCATION_ASSOCIATION,C00512,0.74,A linked vehicle/person was observed at a monitored synthetic location.
+A00448,P0072,HIGH_CALL_ACTIVITY,C03782,0.74,Repeated communication was detected between connected entities.
+A00449,P0268,HIGH_CALL_ACTIVITY,C05526,0.95,Repeated communication was detected between connected entities.
+A00450,P0098,HIGH_CALL_ACTIVITY,F00722,0.63,Repeated communication was detected between connected entities.
+A00451,P0310,DENSE_NETWORK_CLUSTER,C02268,0.94,Entity is located in a densely connected synthetic graph cluster.
+A00452,P0334,DENSE_NETWORK_CLUSTER,T01863,0.89,Entity is located in a densely connected synthetic graph cluster.
+A00453,P0462,UNUSUAL_TRANSACTION,C02260,0.81,Transaction pattern deviates from the synthetic baseline.
+A00454,P0131,HIGH_CALL_ACTIVITY,T02830,0.86,Repeated communication was detected between connected entities.
+A00455,P0125,UNUSUAL_TRANSACTION,C03129,0.63,Transaction pattern deviates from the synthetic baseline.
+A00456,P0346,DENSE_NETWORK_CLUSTER,F00296,0.83,Entity is located in a densely connected synthetic graph cluster.
+A00457,P0407,UNUSUAL_TRANSACTION,C02255,0.69,Transaction pattern deviates from the synthetic baseline.
+A00458,P0223,LOCATION_ASSOCIATION,C05696,0.92,A linked vehicle/person was observed at a monitored synthetic location.
+A00459,P0102,LOCATION_ASSOCIATION,C01724,0.77,A linked vehicle/person was observed at a monitored synthetic location.
+A00460,P0443,LOCATION_ASSOCIATION,F00562,0.74,A linked vehicle/person was observed at a monitored synthetic location.
+A00461,P0152,DENSE_NETWORK_CLUSTER,T02880,0.71,Entity is located in a densely connected synthetic graph cluster.
+A00462,P0221,DENSE_NETWORK_CLUSTER,C01716,0.87,Entity is located in a densely connected synthetic graph cluster.
+A00463,P0146,DENSE_NETWORK_CLUSTER,C01699,0.71,Entity is located in a densely connected synthetic graph cluster.
+A00464,P0117,LOCATION_ASSOCIATION,C01490,0.84,A linked vehicle/person was observed at a monitored synthetic location.
+A00465,P0456,DENSE_NETWORK_CLUSTER,C01901,0.84,Entity is located in a densely connected synthetic graph cluster.
+A00466,P0251,HIGH_CALL_ACTIVITY,C04365,0.89,Repeated communication was detected between connected entities.
+A00467,P0162,HIGH_CALL_ACTIVITY,F00455,0.69,Repeated communication was detected between connected entities.
+A00468,P0231,HIGH_CALL_ACTIVITY,C03170,0.91,Repeated communication was detected between connected entities.
+A00469,P0116,HIGH_CALL_ACTIVITY,C03304,0.74,Repeated communication was detected between connected entities.
+A00470,P0146,HIGH_CALL_ACTIVITY,C04747,0.84,Repeated communication was detected between connected entities.
+A00471,P0220,LOCATION_ASSOCIATION,T02724,0.87,A linked vehicle/person was observed at a monitored synthetic location.
+A00472,P0197,DENSE_NETWORK_CLUSTER,C01255,0.84,Entity is located in a densely connected synthetic graph cluster.
+A00473,P0048,LOCATION_ASSOCIATION,C03074,0.82,A linked vehicle/person was observed at a monitored synthetic location.
+A00474,P0367,DENSE_NETWORK_CLUSTER,C03689,0.86,Entity is located in a densely connected synthetic graph cluster.
+A00475,P0495,HIGH_CALL_ACTIVITY,C03421,0.69,Repeated communication was detected between connected entities.
+A00476,P0495,UNUSUAL_TRANSACTION,T00240,0.6,Transaction pattern deviates from the synthetic baseline.
+A00477,P0439,DENSE_NETWORK_CLUSTER,C02738,0.82,Entity is located in a densely connected synthetic graph cluster.
+A00478,P0323,DENSE_NETWORK_CLUSTER,C00552,0.82,Entity is located in a densely connected synthetic graph cluster.
+A00479,P0436,UNUSUAL_TRANSACTION,C01252,0.88,Transaction pattern deviates from the synthetic baseline.
+A00480,P0072,DENSE_NETWORK_CLUSTER,C05179,0.73,Entity is located in a densely connected synthetic graph cluster.
+A00481,P0498,HIGH_CALL_ACTIVITY,T00627,0.69,Repeated communication was detected between connected entities.
+A00482,P0134,UNUSUAL_TRANSACTION,C05445,0.78,Transaction pattern deviates from the synthetic baseline.
+A00483,P0015,UNUSUAL_TRANSACTION,C04069,0.75,Transaction pattern deviates from the synthetic baseline.
+A00484,P0088,LOCATION_ASSOCIATION,F00836,0.68,A linked vehicle/person was observed at a monitored synthetic location.
+A00485,P0277,LOCATION_ASSOCIATION,C05408,0.77,A linked vehicle/person was observed at a monitored synthetic location.
+A00486,P0191,DENSE_NETWORK_CLUSTER,T00739,0.86,Entity is located in a densely connected synthetic graph cluster.
+A00487,P0309,UNUSUAL_TRANSACTION,C04778,0.82,Transaction pattern deviates from the synthetic baseline.
+A00488,P0068,LOCATION_ASSOCIATION,C00943,0.7,A linked vehicle/person was observed at a monitored synthetic location.
+A00489,P0041,DENSE_NETWORK_CLUSTER,C01738,0.78,Entity is located in a densely connected synthetic graph cluster.
+A00490,P0111,HIGH_CALL_ACTIVITY,T02063,0.92,Repeated communication was detected between connected entities.
+A00491,P0468,LOCATION_ASSOCIATION,T02055,0.64,A linked vehicle/person was observed at a monitored synthetic location.
+A00492,P0279,LOCATION_ASSOCIATION,T00378,0.69,A linked vehicle/person was observed at a monitored synthetic location.
+A00493,P0373,UNUSUAL_TRANSACTION,T00871,0.81,Transaction pattern deviates from the synthetic baseline.
+A00494,P0026,DENSE_NETWORK_CLUSTER,T01125,0.84,Entity is located in a densely connected synthetic graph cluster.
+A00495,P0100,UNUSUAL_TRANSACTION,C02963,0.64,Transaction pattern deviates from the synthetic baseline.
+A00496,P0066,DENSE_NETWORK_CLUSTER,C04172,0.75,Entity is located in a densely connected synthetic graph cluster.
+A00497,P0195,HIGH_CALL_ACTIVITY,C05287,0.64,Repeated communication was detected between connected entities.
+A00498,P0195,UNUSUAL_TRANSACTION,C02191,0.87,Transaction pattern deviates from the synthetic baseline.
+A00499,P0435,HIGH_CALL_ACTIVITY,C04634,0.9,Repeated communication was detected between connected entities.
+A00500,P0219,UNUSUAL_TRANSACTION,C01279,0.81,Transaction pattern deviates from the synthetic baseline.
+A00501,P0202,HIGH_CALL_ACTIVITY,C03371,0.82,Repeated communication was detected between connected entities.
+A00502,P0099,UNUSUAL_TRANSACTION,F00524,0.61,Transaction pattern deviates from the synthetic baseline.
+A00503,P0222,LOCATION_ASSOCIATION,T02528,0.84,A linked vehicle/person was observed at a monitored synthetic location.
+A00504,P0078,HIGH_CALL_ACTIVITY,C00072,0.6,Repeated communication was detected between connected entities.
+A00505,P0410,LOCATION_ASSOCIATION,T00325,0.68,A linked vehicle/person was observed at a monitored synthetic location.
+A00506,P0468,UNUSUAL_TRANSACTION,F00068,0.75,Transaction pattern deviates from the synthetic baseline.
+A00507,P0299,LOCATION_ASSOCIATION,C05203,0.82,A linked vehicle/person was observed at a monitored synthetic location.
+A00508,P0340,DENSE_NETWORK_CLUSTER,C01430,0.93,Entity is located in a densely connected synthetic graph cluster.
+A00509,P0348,UNUSUAL_TRANSACTION,C04361,0.87,Transaction pattern deviates from the synthetic baseline.
+A00510,P0292,UNUSUAL_TRANSACTION,T02997,0.8,Transaction pattern deviates from the synthetic baseline.
+A00511,P0320,HIGH_CALL_ACTIVITY,C01033,0.66,Repeated communication was detected between connected entities.
+A00512,P0014,HIGH_CALL_ACTIVITY,C00206,0.81,Repeated communication was detected between connected entities.
+A00513,P0090,DENSE_NETWORK_CLUSTER,C03568,0.87,Entity is located in a densely connected synthetic graph cluster.
+A00514,P0220,HIGH_CALL_ACTIVITY,T00256,0.73,Repeated communication was detected between connected entities.
+A00515,P0242,LOCATION_ASSOCIATION,T00600,0.82,A linked vehicle/person was observed at a monitored synthetic location.
+A00516,P0181,LOCATION_ASSOCIATION,C02949,0.61,A linked vehicle/person was observed at a monitored synthetic location.
+A00517,P0477,LOCATION_ASSOCIATION,F00078,0.91,A linked vehicle/person was observed at a monitored synthetic location.
+A00518,P0079,HIGH_CALL_ACTIVITY,T01370,0.84,Repeated communication was detected between connected entities.
+A00519,P0163,UNUSUAL_TRANSACTION,C04965,0.71,Transaction pattern deviates from the synthetic baseline.
+A00520,P0495,LOCATION_ASSOCIATION,T00241,0.77,A linked vehicle/person was observed at a monitored synthetic location.
+A00521,P0058,DENSE_NETWORK_CLUSTER,C02365,0.85,Entity is located in a densely connected synthetic graph cluster.
+A00522,P0433,LOCATION_ASSOCIATION,T02928,0.71,A linked vehicle/person was observed at a monitored synthetic location.
+A00523,P0490,UNUSUAL_TRANSACTION,T00643,0.97,Transaction pattern deviates from the synthetic baseline.
+A00524,P0184,LOCATION_ASSOCIATION,F00691,0.62,A linked vehicle/person was observed at a monitored synthetic location.
+A00525,P0144,LOCATION_ASSOCIATION,C01856,0.74,A linked vehicle/person was observed at a monitored synthetic location.
+A00526,P0432,DENSE_NETWORK_CLUSTER,C00298,0.73,Entity is located in a densely connected synthetic graph cluster.
+A00527,P0182,DENSE_NETWORK_CLUSTER,C03610,0.84,Entity is located in a densely connected synthetic graph cluster.
+A00528,P0141,LOCATION_ASSOCIATION,C00194,0.68,A linked vehicle/person was observed at a monitored synthetic location.
+A00529,P0266,HIGH_CALL_ACTIVITY,T02257,0.83,Repeated communication was detected between connected entities.
+A00530,P0134,LOCATION_ASSOCIATION,F00515,0.87,A linked vehicle/person was observed at a monitored synthetic location.
+A00531,P0423,UNUSUAL_TRANSACTION,C00137,0.82,Transaction pattern deviates from the synthetic baseline.
+A00532,P0034,LOCATION_ASSOCIATION,C04197,0.66,A linked vehicle/person was observed at a monitored synthetic location.
+A00533,P0042,LOCATION_ASSOCIATION,C03236,0.86,A linked vehicle/person was observed at a monitored synthetic location.
+A00534,P0428,HIGH_CALL_ACTIVITY,C03455,0.85,Repeated communication was detected between connected entities.
+A00535,P0489,UNUSUAL_TRANSACTION,T01721,0.7,Transaction pattern deviates from the synthetic baseline.
+A00536,P0498,DENSE_NETWORK_CLUSTER,C04719,0.91,Entity is located in a densely connected synthetic graph cluster.
+A00537,P0407,LOCATION_ASSOCIATION,C03076,0.7,A linked vehicle/person was observed at a monitored synthetic location.
+A00538,P0340,UNUSUAL_TRANSACTION,C02019,0.62,Transaction pattern deviates from the synthetic baseline.
+A00539,P0343,DENSE_NETWORK_CLUSTER,C04751,0.81,Entity is located in a densely connected synthetic graph cluster.
+A00540,P0428,UNUSUAL_TRANSACTION,C02410,0.87,Transaction pattern deviates from the synthetic baseline.
+A00541,P0191,DENSE_NETWORK_CLUSTER,C03117,0.86,Entity is located in a densely connected synthetic graph cluster.
+A00542,P0192,DENSE_NETWORK_CLUSTER,C02672,0.8,Entity is located in a densely connected synthetic graph cluster.
+A00543,P0031,LOCATION_ASSOCIATION,T00461,0.75,A linked vehicle/person was observed at a monitored synthetic location.
+A00544,P0151,DENSE_NETWORK_CLUSTER,C04833,0.82,Entity is located in a densely connected synthetic graph cluster.
+A00545,P0128,HIGH_CALL_ACTIVITY,C05845,0.64,Repeated communication was detected between connected entities.
+A00546,P0160,DENSE_NETWORK_CLUSTER,C04210,0.67,Entity is located in a densely connected synthetic graph cluster.
+A00547,P0333,UNUSUAL_TRANSACTION,C01212,0.86,Transaction pattern deviates from the synthetic baseline.
+A00548,P0316,DENSE_NETWORK_CLUSTER,C02570,0.9,Entity is located in a densely connected synthetic graph cluster.
+A00549,P0446,LOCATION_ASSOCIATION,T02473,0.77,A linked vehicle/person was observed at a monitored synthetic location.
+A00550,P0458,UNUSUAL_TRANSACTION,T00574,0.76,Transaction pattern deviates from the synthetic baseline.
+A00551,P0183,LOCATION_ASSOCIATION,C02411,0.7,A linked vehicle/person was observed at a monitored synthetic location.
+A00552,P0288,LOCATION_ASSOCIATION,C03660,0.61,A linked vehicle/person was observed at a monitored synthetic location.
+A00553,P0146,DENSE_NETWORK_CLUSTER,F00030,0.92,Entity is located in a densely connected synthetic graph cluster.
+A00554,P0419,DENSE_NETWORK_CLUSTER,C03386,0.61,Entity is located in a densely connected synthetic graph cluster.
+A00555,P0430,UNUSUAL_TRANSACTION,C00125,0.62,Transaction pattern deviates from the synthetic baseline.
+A00556,P0190,HIGH_CALL_ACTIVITY,T00147,0.73,Repeated communication was detected between connected entities.
+A00557,P0331,DENSE_NETWORK_CLUSTER,T01701,0.67,Entity is located in a densely connected synthetic graph cluster.
+A00558,P0096,HIGH_CALL_ACTIVITY,T00771,0.79,Repeated communication was detected between connected entities.
+A00559,P0435,DENSE_NETWORK_CLUSTER,T00311,0.63,Entity is located in a densely connected synthetic graph cluster.
+A00560,P0368,HIGH_CALL_ACTIVITY,T02438,0.96,Repeated communication was detected between connected entities.
+A00561,P0278,LOCATION_ASSOCIATION,C04452,0.64,A linked vehicle/person was observed at a monitored synthetic location.
+A00562,P0066,LOCATION_ASSOCIATION,C03781,0.84,A linked vehicle/person was observed at a monitored synthetic location.
+A00563,P0216,UNUSUAL_TRANSACTION,C02780,0.94,Transaction pattern deviates from the synthetic baseline.
+A00564,P0437,DENSE_NETWORK_CLUSTER,F00871,0.61,Entity is located in a densely connected synthetic graph cluster.
+A00565,P0285,DENSE_NETWORK_CLUSTER,T01864,0.72,Entity is located in a densely connected synthetic graph cluster.
+A00566,P0424,DENSE_NETWORK_CLUSTER,T02710,0.96,Entity is located in a densely connected synthetic graph cluster.
+A00567,P0102,LOCATION_ASSOCIATION,F00727,0.91,A linked vehicle/person was observed at a monitored synthetic location.
+A00568,P0402,LOCATION_ASSOCIATION,T00736,0.9,A linked vehicle/person was observed at a monitored synthetic location.
+A00569,P0499,LOCATION_ASSOCIATION,C02855,0.79,A linked vehicle/person was observed at a monitored synthetic location.
+A00570,P0190,HIGH_CALL_ACTIVITY,C05752,0.77,Repeated communication was detected between connected entities.
+A00571,P0401,DENSE_NETWORK_CLUSTER,C02559,0.95,Entity is located in a densely connected synthetic graph cluster.
+A00572,P0496,DENSE_NETWORK_CLUSTER,T00683,0.73,Entity is located in a densely connected synthetic graph cluster.
+A00573,P0251,HIGH_CALL_ACTIVITY,C05405,0.86,Repeated communication was detected between connected entities.
+A00574,P0333,DENSE_NETWORK_CLUSTER,C05300,0.73,Entity is located in a densely connected synthetic graph cluster.
+A00575,P0272,UNUSUAL_TRANSACTION,C00849,0.97,Transaction pattern deviates from the synthetic baseline.
+A00576,P0457,DENSE_NETWORK_CLUSTER,T00567,0.82,Entity is located in a densely connected synthetic graph cluster.
+A00577,P0416,DENSE_NETWORK_CLUSTER,T00449,0.92,Entity is located in a densely connected synthetic graph cluster.
+A00578,P0323,DENSE_NETWORK_CLUSTER,C02042,0.72,Entity is located in a densely connected synthetic graph cluster.
+A00579,P0344,HIGH_CALL_ACTIVITY,C00305,0.83,Repeated communication was detected between connected entities.
+A00580,P0225,LOCATION_ASSOCIATION,F00394,0.65,A linked vehicle/person was observed at a monitored synthetic location.
+A00581,P0409,DENSE_NETWORK_CLUSTER,T01517,0.77,Entity is located in a densely connected synthetic graph cluster.
+A00582,P0471,DENSE_NETWORK_CLUSTER,T00238,0.91,Entity is located in a densely connected synthetic graph cluster.
+A00583,P0025,UNUSUAL_TRANSACTION,C00316,0.66,Transaction pattern deviates from the synthetic baseline.
+A00584,P0107,UNUSUAL_TRANSACTION,C03918,0.77,Transaction pattern deviates from the synthetic baseline.
+A00585,P0392,DENSE_NETWORK_CLUSTER,C05437,0.97,Entity is located in a densely connected synthetic graph cluster.
+A00586,P0069,LOCATION_ASSOCIATION,C05122,0.81,A linked vehicle/person was observed at a monitored synthetic location.
+A00587,P0241,HIGH_CALL_ACTIVITY,T00122,0.94,Repeated communication was detected between connected entities.
+A00588,P0127,LOCATION_ASSOCIATION,C00784,0.67,A linked vehicle/person was observed at a monitored synthetic location.
+A00589,P0354,UNUSUAL_TRANSACTION,C01976,0.82,Transaction pattern deviates from the synthetic baseline.
+A00590,P0476,UNUSUAL_TRANSACTION,T00561,0.71,Transaction pattern deviates from the synthetic baseline.
+A00591,P0453,DENSE_NETWORK_CLUSTER,T01197,0.77,Entity is located in a densely connected synthetic graph cluster.
+A00592,P0296,LOCATION_ASSOCIATION,C04210,0.91,A linked vehicle/person was observed at a monitored synthetic location.
+A00593,P0338,DENSE_NETWORK_CLUSTER,C04698,0.9,Entity is located in a densely connected synthetic graph cluster.
+A00594,P0084,UNUSUAL_TRANSACTION,C05721,0.61,Transaction pattern deviates from the synthetic baseline.
+A00595,P0053,HIGH_CALL_ACTIVITY,T01906,0.92,Repeated communication was detected between connected entities.
+A00596,P0194,HIGH_CALL_ACTIVITY,C01736,0.82,Repeated communication was detected between connected entities.
+A00597,P0052,DENSE_NETWORK_CLUSTER,T01854,0.86,Entity is located in a densely connected synthetic graph cluster.
+A00598,P0500,DENSE_NETWORK_CLUSTER,C01359,0.89,Entity is located in a densely connected synthetic graph cluster.
+A00599,P0269,DENSE_NETWORK_CLUSTER,T00464,0.91,Entity is located in a densely connected synthetic graph cluster.
+A00600,P0389,LOCATION_ASSOCIATION,T01341,0.82,A linked vehicle/person was observed at a monitored synthetic location.
+A00601,P0472,UNUSUAL_TRANSACTION,C02092,0.81,Transaction pattern deviates from the synthetic baseline.
+A00602,P0302,HIGH_CALL_ACTIVITY,T01597,0.96,Repeated communication was detected between connected entities.
+A00603,P0279,UNUSUAL_TRANSACTION,T01709,0.79,Transaction pattern deviates from the synthetic baseline.
+A00604,P0410,LOCATION_ASSOCIATION,C02875,0.77,A linked vehicle/person was observed at a monitored synthetic location.
+A00605,P0264,DENSE_NETWORK_CLUSTER,F00430,0.6,Entity is located in a densely connected synthetic graph cluster.
+A00606,P0101,UNUSUAL_TRANSACTION,C00413,0.72,Transaction pattern deviates from the synthetic baseline.
+A00607,P0050,HIGH_CALL_ACTIVITY,F00607,0.91,Repeated communication was detected between connected entities.
+A00608,P0227,UNUSUAL_TRANSACTION,T00787,0.87,Transaction pattern deviates from the synthetic baseline.
+A00609,P0235,UNUSUAL_TRANSACTION,T00363,0.63,Transaction pattern deviates from the synthetic baseline.
+A00610,P0247,UNUSUAL_TRANSACTION,C01678,0.79,Transaction pattern deviates from the synthetic baseline.
+A00611,P0495,UNUSUAL_TRANSACTION,C01600,0.61,Transaction pattern deviates from the synthetic baseline.
+A00612,P0228,HIGH_CALL_ACTIVITY,C05759,0.73,Repeated communication was detected between connected entities.
+A00613,P0087,DENSE_NETWORK_CLUSTER,T02424,0.69,Entity is located in a densely connected synthetic graph cluster.
+A00614,P0364,UNUSUAL_TRANSACTION,C02349,0.76,Transaction pattern deviates from the synthetic baseline.
+A00615,P0361,UNUSUAL_TRANSACTION,C00044,0.74,Transaction pattern deviates from the synthetic baseline.
+A00616,P0338,HIGH_CALL_ACTIVITY,T02202,0.86,Repeated communication was detected between connected entities.
+A00617,P0105,LOCATION_ASSOCIATION,T02897,0.77,A linked vehicle/person was observed at a monitored synthetic location.
+A00618,P0345,DENSE_NETWORK_CLUSTER,T02940,0.84,Entity is located in a densely connected synthetic graph cluster.
+A00619,P0312,LOCATION_ASSOCIATION,C01791,0.73,A linked vehicle/person was observed at a monitored synthetic location.
+A00620,P0387,DENSE_NETWORK_CLUSTER,T01797,0.82,Entity is located in a densely connected synthetic graph cluster.
+A00621,P0350,UNUSUAL_TRANSACTION,T02293,0.76,Transaction pattern deviates from the synthetic baseline.
+A00622,P0153,DENSE_NETWORK_CLUSTER,T00673,0.65,Entity is located in a densely connected synthetic graph cluster.
+A00623,P0357,DENSE_NETWORK_CLUSTER,T01374,0.66,Entity is located in a densely connected synthetic graph cluster.
+A00624,P0398,HIGH_CALL_ACTIVITY,C03229,0.71,Repeated communication was detected between connected entities.
+A00625,P0198,UNUSUAL_TRANSACTION,T01667,0.79,Transaction pattern deviates from the synthetic baseline.
+A00626,P0050,DENSE_NETWORK_CLUSTER,T01810,0.63,Entity is located in a densely connected synthetic graph cluster.
+A00627,P0440,HIGH_CALL_ACTIVITY,C00991,0.68,Repeated communication was detected between connected entities.
+A00628,P0274,DENSE_NETWORK_CLUSTER,C04234,0.64,Entity is located in a densely connected synthetic graph cluster.
+A00629,P0064,LOCATION_ASSOCIATION,T01418,0.7,A linked vehicle/person was observed at a monitored synthetic location.
+A00630,P0040,DENSE_NETWORK_CLUSTER,F00233,0.81,Entity is located in a densely connected synthetic graph cluster.
+A00631,P0270,DENSE_NETWORK_CLUSTER,T02447,0.69,Entity is located in a densely connected synthetic graph cluster.
+A00632,P0250,DENSE_NETWORK_CLUSTER,C04059,0.81,Entity is located in a densely connected synthetic graph cluster.
+A00633,P0139,DENSE_NETWORK_CLUSTER,F00774,0.8,Entity is located in a densely connected synthetic graph cluster.
+A00634,P0047,DENSE_NETWORK_CLUSTER,T02747,0.73,Entity is located in a densely connected synthetic graph cluster.
+A00635,P0180,UNUSUAL_TRANSACTION,C03670,0.63,Transaction pattern deviates from the synthetic baseline.
+A00636,P0249,DENSE_NETWORK_CLUSTER,C03498,0.63,Entity is located in a densely connected synthetic graph cluster.
+A00637,P0428,HIGH_CALL_ACTIVITY,T02780,0.63,Repeated communication was detected between connected entities.
+A00638,P0312,UNUSUAL_TRANSACTION,C04567,0.91,Transaction pattern deviates from the synthetic baseline.
+A00639,P0208,UNUSUAL_TRANSACTION,C02299,0.82,Transaction pattern deviates from the synthetic baseline.
+A00640,P0498,UNUSUAL_TRANSACTION,C05341,0.86,Transaction pattern deviates from the synthetic baseline.
+A00641,P0348,DENSE_NETWORK_CLUSTER,C03471,0.82,Entity is located in a densely connected synthetic graph cluster.
+A00642,P0460,LOCATION_ASSOCIATION,C05577,0.63,A linked vehicle/person was observed at a monitored synthetic location.
+A00643,P0083,LOCATION_ASSOCIATION,T02483,0.81,A linked vehicle/person was observed at a monitored synthetic location.
+A00644,P0039,HIGH_CALL_ACTIVITY,C00073,0.79,Repeated communication was detected between connected entities.
+A00645,P0458,UNUSUAL_TRANSACTION,T02152,0.83,Transaction pattern deviates from the synthetic baseline.
+A00646,P0424,UNUSUAL_TRANSACTION,C01954,0.91,Transaction pattern deviates from the synthetic baseline.
+A00647,P0360,LOCATION_ASSOCIATION,F00949,0.85,A linked vehicle/person was observed at a monitored synthetic location.
+A00648,P0229,HIGH_CALL_ACTIVITY,C04320,0.96,Repeated communication was detected between connected entities.
+A00649,P0380,HIGH_CALL_ACTIVITY,C04737,0.69,Repeated communication was detected between connected entities.
+A00650,P0486,UNUSUAL_TRANSACTION,T00709,0.77,Transaction pattern deviates from the synthetic baseline.
+A00651,P0152,UNUSUAL_TRANSACTION,T00475,0.95,Transaction pattern deviates from the synthetic baseline.
+A00652,P0060,HIGH_CALL_ACTIVITY,C03861,0.82,Repeated communication was detected between connected entities.
+A00653,P0281,UNUSUAL_TRANSACTION,C03511,0.86,Transaction pattern deviates from the synthetic baseline.
+A00654,P0309,DENSE_NETWORK_CLUSTER,T00399,0.8,Entity is located in a densely connected synthetic graph cluster.
+A00655,P0247,DENSE_NETWORK_CLUSTER,C02901,0.89,Entity is located in a densely connected synthetic graph cluster.
+A00656,P0101,DENSE_NETWORK_CLUSTER,C02050,0.71,Entity is located in a densely connected synthetic graph cluster.
+A00657,P0328,HIGH_CALL_ACTIVITY,T01114,0.87,Repeated communication was detected between connected entities.
+A00658,P0469,LOCATION_ASSOCIATION,C02076,0.68,A linked vehicle/person was observed at a monitored synthetic location.
+A00659,P0372,LOCATION_ASSOCIATION,T00808,0.69,A linked vehicle/person was observed at a monitored synthetic location.
+A00660,P0240,UNUSUAL_TRANSACTION,C00260,0.85,Transaction pattern deviates from the synthetic baseline.
+A00661,P0353,DENSE_NETWORK_CLUSTER,C03127,0.68,Entity is located in a densely connected synthetic graph cluster.
+A00662,P0176,DENSE_NETWORK_CLUSTER,C01229,0.89,Entity is located in a densely connected synthetic graph cluster.
+A00663,P0326,UNUSUAL_TRANSACTION,T02721,0.72,Transaction pattern deviates from the synthetic baseline.
+A00664,P0150,DENSE_NETWORK_CLUSTER,C01264,0.81,Entity is located in a densely connected synthetic graph cluster.
+A00665,P0432,HIGH_CALL_ACTIVITY,C05743,0.96,Repeated communication was detected between connected entities.
+A00666,P0023,DENSE_NETWORK_CLUSTER,T01369,0.89,Entity is located in a densely connected synthetic graph cluster.
+A00667,P0422,UNUSUAL_TRANSACTION,T02418,0.77,Transaction pattern deviates from the synthetic baseline.
+A00668,P0194,HIGH_CALL_ACTIVITY,C04786,0.72,Repeated communication was detected between connected entities.
+A00669,P0417,DENSE_NETWORK_CLUSTER,T02405,0.7,Entity is located in a densely connected synthetic graph cluster.
+A00670,P0119,DENSE_NETWORK_CLUSTER,C04752,0.64,Entity is located in a densely connected synthetic graph cluster.
+A00671,P0187,HIGH_CALL_ACTIVITY,C02002,0.9,Repeated communication was detected between connected entities.
+A00672,P0067,HIGH_CALL_ACTIVITY,C04262,0.75,Repeated communication was detected between connected entities.
+A00673,P0307,HIGH_CALL_ACTIVITY,F00244,0.78,Repeated communication was detected between connected entities.
+A00674,P0263,HIGH_CALL_ACTIVITY,T01256,0.89,Repeated communication was detected between connected entities.
+A00675,P0460,UNUSUAL_TRANSACTION,C02157,0.7,Transaction pattern deviates from the synthetic baseline.
+A00676,P0251,UNUSUAL_TRANSACTION,C00979,0.91,Transaction pattern deviates from the synthetic baseline.
+A00677,P0430,UNUSUAL_TRANSACTION,C00780,0.96,Transaction pattern deviates from the synthetic baseline.
+A00678,P0261,HIGH_CALL_ACTIVITY,C03525,0.68,Repeated communication was detected between connected entities.
+A00679,P0042,HIGH_CALL_ACTIVITY,F00654,0.96,Repeated communication was detected between connected entities.
+A00680,P0464,DENSE_NETWORK_CLUSTER,C04158,0.91,Entity is located in a densely connected synthetic graph cluster.
+A00681,P0174,HIGH_CALL_ACTIVITY,T01956,0.9,Repeated communication was detected between connected entities.
+A00682,P0326,DENSE_NETWORK_CLUSTER,F00887,0.75,Entity is located in a densely connected synthetic graph cluster.
+A00683,P0196,HIGH_CALL_ACTIVITY,C04977,0.66,Repeated communication was detected between connected entities.
+A00684,P0091,HIGH_CALL_ACTIVITY,T02002,0.76,Repeated communication was detected between connected entities.
+A00685,P0113,DENSE_NETWORK_CLUSTER,T02377,0.8,Entity is located in a densely connected synthetic graph cluster.
+A00686,P0128,UNUSUAL_TRANSACTION,C03650,0.61,Transaction pattern deviates from the synthetic baseline.
+A00687,P0220,DENSE_NETWORK_CLUSTER,T01930,0.64,Entity is located in a densely connected synthetic graph cluster.
+A00688,P0325,HIGH_CALL_ACTIVITY,T01998,0.8,Repeated communication was detected between connected entities.
+A00689,P0284,LOCATION_ASSOCIATION,C03673,0.67,A linked vehicle/person was observed at a monitored synthetic location.
+A00690,P0099,DENSE_NETWORK_CLUSTER,C04294,0.91,Entity is located in a densely connected synthetic graph cluster.
+A00691,P0183,LOCATION_ASSOCIATION,T02905,0.66,A linked vehicle/person was observed at a monitored synthetic location.
+A00692,P0126,LOCATION_ASSOCIATION,C04236,0.8,A linked vehicle/person was observed at a monitored synthetic location.
+A00693,P0343,UNUSUAL_TRANSACTION,T00796,0.75,Transaction pattern deviates from the synthetic baseline.
+A00694,P0143,DENSE_NETWORK_CLUSTER,C01585,0.61,Entity is located in a densely connected synthetic graph cluster.
+A00695,P0379,HIGH_CALL_ACTIVITY,T01098,0.79,Repeated communication was detected between connected entities.
+A00696,P0328,HIGH_CALL_ACTIVITY,C02086,0.72,Repeated communication was detected between connected entities.
+A00697,P0487,LOCATION_ASSOCIATION,F00785,0.62,A linked vehicle/person was observed at a monitored synthetic location.
+A00698,P0138,DENSE_NETWORK_CLUSTER,C02434,0.64,Entity is located in a densely connected synthetic graph cluster.
+A00699,P0176,LOCATION_ASSOCIATION,T00163,0.69,A linked vehicle/person was observed at a monitored synthetic location.
+A00700,P0437,LOCATION_ASSOCIATION,C02421,0.74,A linked vehicle/person was observed at a monitored synthetic location.
+A00701,P0261,LOCATION_ASSOCIATION,T02362,0.65,A linked vehicle/person was observed at a monitored synthetic location.
+A00702,P0033,HIGH_CALL_ACTIVITY,C04731,0.62,Repeated communication was detected between connected entities.
+A00703,P0428,HIGH_CALL_ACTIVITY,T02211,0.64,Repeated communication was detected between connected entities.
+A00704,P0012,LOCATION_ASSOCIATION,C00773,0.82,A linked vehicle/person was observed at a monitored synthetic location.
+A00705,P0239,HIGH_CALL_ACTIVITY,C01413,0.68,Repeated communication was detected between connected entities.
+A00706,P0056,HIGH_CALL_ACTIVITY,C05496,0.97,Repeated communication was detected between connected entities.
+A00707,P0213,UNUSUAL_TRANSACTION,F00626,0.74,Transaction pattern deviates from the synthetic baseline.
+A00708,P0336,LOCATION_ASSOCIATION,T02232,0.82,A linked vehicle/person was observed at a monitored synthetic location.
+A00709,P0213,LOCATION_ASSOCIATION,F00438,0.93,A linked vehicle/person was observed at a monitored synthetic location.
+A00710,P0191,LOCATION_ASSOCIATION,T01706,0.6,A linked vehicle/person was observed at a monitored synthetic location.
+A00711,P0488,DENSE_NETWORK_CLUSTER,C02720,0.77,Entity is located in a densely connected synthetic graph cluster.
+A00712,P0426,LOCATION_ASSOCIATION,C03472,0.96,A linked vehicle/person was observed at a monitored synthetic location.
+A00713,P0294,DENSE_NETWORK_CLUSTER,C04292,0.87,Entity is located in a densely connected synthetic graph cluster.
+A00714,P0173,DENSE_NETWORK_CLUSTER,C03479,0.97,Entity is located in a densely connected synthetic graph cluster.
+A00715,P0221,LOCATION_ASSOCIATION,C01977,0.69,A linked vehicle/person was observed at a monitored synthetic location.
+A00716,P0072,DENSE_NETWORK_CLUSTER,C04613,0.84,Entity is located in a densely connected synthetic graph cluster.
+A00717,P0060,UNUSUAL_TRANSACTION,C00275,0.63,Transaction pattern deviates from the synthetic baseline.
+A00718,P0085,UNUSUAL_TRANSACTION,C00791,0.67,Transaction pattern deviates from the synthetic baseline.
+A00719,P0346,UNUSUAL_TRANSACTION,C00456,0.76,Transaction pattern deviates from the synthetic baseline.
+A00720,P0214,HIGH_CALL_ACTIVITY,T00172,0.75,Repeated communication was detected between connected entities.
+A00721,P0001,HIGH_CALL_ACTIVITY,C00068,0.72,Repeated communication was detected between connected entities.
+A00722,P0007,HIGH_CALL_ACTIVITY,C03025,0.87,Repeated communication was detected between connected entities.
+A00723,P0410,HIGH_CALL_ACTIVITY,C01705,0.67,Repeated communication was detected between connected entities.
+A00724,P0182,HIGH_CALL_ACTIVITY,F00181,0.73,Repeated communication was detected between connected entities.
+A00725,P0093,UNUSUAL_TRANSACTION,C02124,0.89,Transaction pattern deviates from the synthetic baseline.
+A00726,P0482,UNUSUAL_TRANSACTION,C03548,0.72,Transaction pattern deviates from the synthetic baseline.
+A00727,P0069,HIGH_CALL_ACTIVITY,C04030,0.79,Repeated communication was detected between connected entities.
+A00728,P0070,LOCATION_ASSOCIATION,C05223,0.85,A linked vehicle/person was observed at a monitored synthetic location.
+A00729,P0401,DENSE_NETWORK_CLUSTER,F00202,0.9,Entity is located in a densely connected synthetic graph cluster.
+A00730,P0245,DENSE_NETWORK_CLUSTER,C03287,0.87,Entity is located in a densely connected synthetic graph cluster.
+A00731,P0082,HIGH_CALL_ACTIVITY,C05802,0.81,Repeated communication was detected between connected entities.
+A00732,P0470,DENSE_NETWORK_CLUSTER,C00026,0.62,Entity is located in a densely connected synthetic graph cluster.
+A00733,P0003,UNUSUAL_TRANSACTION,C04589,0.85,Transaction pattern deviates from the synthetic baseline.
+A00734,P0478,HIGH_CALL_ACTIVITY,C05885,0.96,Repeated communication was detected between connected entities.
+A00735,P0364,LOCATION_ASSOCIATION,C01554,0.84,A linked vehicle/person was observed at a monitored synthetic location.
+A00736,P0029,DENSE_NETWORK_CLUSTER,T00865,0.73,Entity is located in a densely connected synthetic graph cluster.
+A00737,P0358,HIGH_CALL_ACTIVITY,C03301,0.72,Repeated communication was detected between connected entities.
+A00738,P0024,UNUSUAL_TRANSACTION,F00503,0.64,Transaction pattern deviates from the synthetic baseline.
+A00739,P0164,UNUSUAL_TRANSACTION,F00232,0.65,Transaction pattern deviates from the synthetic baseline.
+A00740,P0267,UNUSUAL_TRANSACTION,T00617,0.91,Transaction pattern deviates from the synthetic baseline.
+A00741,P0179,UNUSUAL_TRANSACTION,C05743,0.65,Transaction pattern deviates from the synthetic baseline.
+A00742,P0475,UNUSUAL_TRANSACTION,C01544,0.84,Transaction pattern deviates from the synthetic baseline.
+A00743,P0357,DENSE_NETWORK_CLUSTER,C04523,0.6,Entity is located in a densely connected synthetic graph cluster.
+A00744,P0059,HIGH_CALL_ACTIVITY,F00744,0.94,Repeated communication was detected between connected entities.
+A00745,P0218,DENSE_NETWORK_CLUSTER,T00843,0.7,Entity is located in a densely connected synthetic graph cluster.
+A00746,P0137,LOCATION_ASSOCIATION,C04923,0.93,A linked vehicle/person was observed at a monitored synthetic location.
+A00747,P0212,DENSE_NETWORK_CLUSTER,C01389,0.82,Entity is located in a densely connected synthetic graph cluster.
+A00748,P0415,HIGH_CALL_ACTIVITY,C04905,0.77,Repeated communication was detected between connected entities.
+A00749,P0394,HIGH_CALL_ACTIVITY,C02714,0.64,Repeated communication was detected between connected entities.
+A00750,P0344,HIGH_CALL_ACTIVITY,C02286,0.73,Repeated communication was detected between connected entities.
+A00751,P0268,UNUSUAL_TRANSACTION,T02183,0.75,Transaction pattern deviates from the synthetic baseline.
+A00752,P0349,HIGH_CALL_ACTIVITY,F00610,0.87,Repeated communication was detected between connected entities.
+A00753,P0447,DENSE_NETWORK_CLUSTER,C00013,0.76,Entity is located in a densely connected synthetic graph cluster.
+A00754,P0192,HIGH_CALL_ACTIVITY,T00297,0.94,Repeated communication was detected between connected entities.
+A00755,P0054,HIGH_CALL_ACTIVITY,C01373,0.64,Repeated communication was detected between connected entities.
+A00756,P0071,HIGH_CALL_ACTIVITY,T01571,0.95,Repeated communication was detected between connected entities.
+A00757,P0497,HIGH_CALL_ACTIVITY,T02237,0.9,Repeated communication was detected between connected entities.
+A00758,P0047,LOCATION_ASSOCIATION,T02562,0.62,A linked vehicle/person was observed at a monitored synthetic location.
+A00759,P0085,HIGH_CALL_ACTIVITY,C05506,0.88,Repeated communication was detected between connected entities.
+A00760,P0238,LOCATION_ASSOCIATION,T01449,0.71,A linked vehicle/person was observed at a monitored synthetic location.
+A00761,P0138,UNUSUAL_TRANSACTION,C02085,0.91,Transaction pattern deviates from the synthetic baseline.
+A00762,P0009,LOCATION_ASSOCIATION,C04037,0.8,A linked vehicle/person was observed at a monitored synthetic location.
+A00763,P0096,HIGH_CALL_ACTIVITY,C03928,0.91,Repeated communication was detected between connected entities.
+A00764,P0383,UNUSUAL_TRANSACTION,C01328,0.73,Transaction pattern deviates from the synthetic baseline.
+A00765,P0336,HIGH_CALL_ACTIVITY,T01792,0.88,Repeated communication was detected between connected entities.
+A00766,P0081,LOCATION_ASSOCIATION,C05933,0.66,A linked vehicle/person was observed at a monitored synthetic location.
+A00767,P0189,HIGH_CALL_ACTIVITY,C03603,0.71,Repeated communication was detected between connected entities.
+A00768,P0216,HIGH_CALL_ACTIVITY,C03502,0.66,Repeated communication was detected between connected entities.
+A00769,P0039,UNUSUAL_TRANSACTION,C04155,0.78,Transaction pattern deviates from the synthetic baseline.
+A00770,P0035,UNUSUAL_TRANSACTION,T02108,0.92,Transaction pattern deviates from the synthetic baseline.
+A00771,P0337,HIGH_CALL_ACTIVITY,F00316,0.74,Repeated communication was detected between connected entities.
+A00772,P0417,UNUSUAL_TRANSACTION,F00682,0.84,Transaction pattern deviates from the synthetic baseline.
+A00773,P0464,UNUSUAL_TRANSACTION,C00691,0.77,Transaction pattern deviates from the synthetic baseline.
+A00774,P0223,HIGH_CALL_ACTIVITY,C03843,0.78,Repeated communication was detected between connected entities.
+A00775,P0259,LOCATION_ASSOCIATION,C05665,0.76,A linked vehicle/person was observed at a monitored synthetic location.
+A00776,P0057,HIGH_CALL_ACTIVITY,C03561,0.84,Repeated communication was detected between connected entities.
+A00777,P0325,UNUSUAL_TRANSACTION,C01245,0.76,Transaction pattern deviates from the synthetic baseline.
+A00778,P0498,LOCATION_ASSOCIATION,C03694,0.97,A linked vehicle/person was observed at a monitored synthetic location.
+A00779,P0079,UNUSUAL_TRANSACTION,C02093,0.96,Transaction pattern deviates from the synthetic baseline.
+A00780,P0427,DENSE_NETWORK_CLUSTER,T00616,0.69,Entity is located in a densely connected synthetic graph cluster.
+A00781,P0380,DENSE_NETWORK_CLUSTER,T01405,0.94,Entity is located in a densely connected synthetic graph cluster.
+A00782,P0301,LOCATION_ASSOCIATION,T02531,0.83,A linked vehicle/person was observed at a monitored synthetic location.
+A00783,P0263,HIGH_CALL_ACTIVITY,C02522,0.79,Repeated communication was detected between connected entities.
+A00784,P0193,LOCATION_ASSOCIATION,T00747,0.7,A linked vehicle/person was observed at a monitored synthetic location.
+A00785,P0065,DENSE_NETWORK_CLUSTER,T00906,0.69,Entity is located in a densely connected synthetic graph cluster.
+A00786,P0173,DENSE_NETWORK_CLUSTER,T02288,0.84,Entity is located in a densely connected synthetic graph cluster.
+A00787,P0398,HIGH_CALL_ACTIVITY,T02593,0.66,Repeated communication was detected between connected entities.
+A00788,P0113,UNUSUAL_TRANSACTION,T01866,0.77,Transaction pattern deviates from the synthetic baseline.
+A00789,P0443,HIGH_CALL_ACTIVITY,T01080,0.87,Repeated communication was detected between connected entities.
+A00790,P0385,HIGH_CALL_ACTIVITY,C03445,0.72,Repeated communication was detected between connected entities.
+A00791,P0409,LOCATION_ASSOCIATION,T00467,0.8,A linked vehicle/person was observed at a monitored synthetic location.
+A00792,P0243,LOCATION_ASSOCIATION,C05602,0.78,A linked vehicle/person was observed at a monitored synthetic location.
+A00793,P0319,LOCATION_ASSOCIATION,F00095,0.78,A linked vehicle/person was observed at a monitored synthetic location.
+A00794,P0281,UNUSUAL_TRANSACTION,T00251,0.74,Transaction pattern deviates from the synthetic baseline.
+A00795,P0336,DENSE_NETWORK_CLUSTER,T00195,0.88,Entity is located in a densely connected synthetic graph cluster.
+A00796,P0305,DENSE_NETWORK_CLUSTER,F00085,0.87,Entity is located in a densely connected synthetic graph cluster.
+A00797,P0454,UNUSUAL_TRANSACTION,T01926,0.74,Transaction pattern deviates from the synthetic baseline.
+A00798,P0483,DENSE_NETWORK_CLUSTER,C03438,0.8,Entity is located in a densely connected synthetic graph cluster.
+A00799,P0372,HIGH_CALL_ACTIVITY,C03706,0.67,Repeated communication was detected between connected entities.
+A00800,P0283,LOCATION_ASSOCIATION,C01247,0.88,A linked vehicle/person was observed at a monitored synthetic location.
+A00801,P0024,UNUSUAL_TRANSACTION,T01653,0.81,Transaction pattern deviates from the synthetic baseline.
+A00802,P0179,UNUSUAL_TRANSACTION,C04483,0.82,Transaction pattern deviates from the synthetic baseline.
+A00803,P0486,LOCATION_ASSOCIATION,T00804,0.85,A linked vehicle/person was observed at a monitored synthetic location.
+A00804,P0028,HIGH_CALL_ACTIVITY,C05180,0.76,Repeated communication was detected between connected entities.
+A00805,P0093,HIGH_CALL_ACTIVITY,F00022,0.61,Repeated communication was detected between connected entities.
+A00806,P0174,LOCATION_ASSOCIATION,T00092,0.78,A linked vehicle/person was observed at a monitored synthetic location.
+A00807,P0283,UNUSUAL_TRANSACTION,T01906,0.82,Transaction pattern deviates from the synthetic baseline.
+A00808,P0457,DENSE_NETWORK_CLUSTER,C03165,0.66,Entity is located in a densely connected synthetic graph cluster.
+A00809,P0313,LOCATION_ASSOCIATION,C01918,0.94,A linked vehicle/person was observed at a monitored synthetic location.
+A00810,P0339,DENSE_NETWORK_CLUSTER,T01481,0.71,Entity is located in a densely connected synthetic graph cluster.
+A00811,P0469,UNUSUAL_TRANSACTION,C02461,0.96,Transaction pattern deviates from the synthetic baseline.
+A00812,P0239,LOCATION_ASSOCIATION,T00585,0.92,A linked vehicle/person was observed at a monitored synthetic location.
+A00813,P0473,UNUSUAL_TRANSACTION,C00666,0.97,Transaction pattern deviates from the synthetic baseline.
+A00814,P0095,LOCATION_ASSOCIATION,C04279,0.84,A linked vehicle/person was observed at a monitored synthetic location.
+A00815,P0423,DENSE_NETWORK_CLUSTER,C02070,0.87,Entity is located in a densely connected synthetic graph cluster.
+A00816,P0389,LOCATION_ASSOCIATION,C01481,0.76,A linked vehicle/person was observed at a monitored synthetic location.
+A00817,P0366,DENSE_NETWORK_CLUSTER,C04456,0.81,Entity is located in a densely connected synthetic graph cluster.
+A00818,P0142,LOCATION_ASSOCIATION,F00001,0.69,A linked vehicle/person was observed at a monitored synthetic location.
+A00819,P0198,UNUSUAL_TRANSACTION,C04352,0.93,Transaction pattern deviates from the synthetic baseline.
+A00820,P0104,UNUSUAL_TRANSACTION,T02408,0.65,Transaction pattern deviates from the synthetic baseline.
+A00821,P0390,UNUSUAL_TRANSACTION,C01746,0.8,Transaction pattern deviates from the synthetic baseline.
+A00822,P0063,LOCATION_ASSOCIATION,T02495,0.93,A linked vehicle/person was observed at a monitored synthetic location.
+A00823,P0017,DENSE_NETWORK_CLUSTER,C01716,0.91,Entity is located in a densely connected synthetic graph cluster.
+A00824,P0225,DENSE_NETWORK_CLUSTER,C04073,0.69,Entity is located in a densely connected synthetic graph cluster.
+A00825,P0454,LOCATION_ASSOCIATION,C00381,0.75,A linked vehicle/person was observed at a monitored synthetic location.
+A00826,P0020,HIGH_CALL_ACTIVITY,C05085,0.77,Repeated communication was detected between connected entities.
+A00827,P0303,HIGH_CALL_ACTIVITY,C02313,0.66,Repeated communication was detected between connected entities.
+A00828,P0454,DENSE_NETWORK_CLUSTER,T02721,0.9,Entity is located in a densely connected synthetic graph cluster.
+A00829,P0396,UNUSUAL_TRANSACTION,F00487,0.96,Transaction pattern deviates from the synthetic baseline.
+A00830,P0043,DENSE_NETWORK_CLUSTER,F00362,0.66,Entity is located in a densely connected synthetic graph cluster.
+A00831,P0093,HIGH_CALL_ACTIVITY,F00586,0.8,Repeated communication was detected between connected entities.
+A00832,P0444,UNUSUAL_TRANSACTION,T02391,0.73,Transaction pattern deviates from the synthetic baseline.
+A00833,P0385,LOCATION_ASSOCIATION,C03678,0.66,A linked vehicle/person was observed at a monitored synthetic location.
+A00834,P0255,DENSE_NETWORK_CLUSTER,T01762,0.61,Entity is located in a densely connected synthetic graph cluster.
+A00835,P0191,UNUSUAL_TRANSACTION,C03444,0.94,Transaction pattern deviates from the synthetic baseline.
+A00836,P0047,UNUSUAL_TRANSACTION,F00760,0.74,Transaction pattern deviates from the synthetic baseline.
+A00837,P0158,DENSE_NETWORK_CLUSTER,T01006,0.75,Entity is located in a densely connected synthetic graph cluster.
+A00838,P0162,UNUSUAL_TRANSACTION,C05546,0.92,Transaction pattern deviates from the synthetic baseline.
+A00839,P0436,HIGH_CALL_ACTIVITY,C04383,0.88,Repeated communication was detected between connected entities.
+A00840,P0334,DENSE_NETWORK_CLUSTER,C05826,0.94,Entity is located in a densely connected synthetic graph cluster.
+A00841,P0129,LOCATION_ASSOCIATION,C05363,0.63,A linked vehicle/person was observed at a monitored synthetic location.
+A00842,P0056,LOCATION_ASSOCIATION,F00333,0.81,A linked vehicle/person was observed at a monitored synthetic location.
+A00843,P0175,LOCATION_ASSOCIATION,C05712,0.69,A linked vehicle/person was observed at a monitored synthetic location.
+A00844,P0477,DENSE_NETWORK_CLUSTER,C02229,0.68,Entity is located in a densely connected synthetic graph cluster.
+A00845,P0426,UNUSUAL_TRANSACTION,T01462,0.81,Transaction pattern deviates from the synthetic baseline.
+A00846,P0141,UNUSUAL_TRANSACTION,C01699,0.91,Transaction pattern deviates from the synthetic baseline.
+A00847,P0332,DENSE_NETWORK_CLUSTER,C04216,0.67,Entity is located in a densely connected synthetic graph cluster.
+A00848,P0177,DENSE_NETWORK_CLUSTER,C01224,0.75,Entity is located in a densely connected synthetic graph cluster.
+A00849,P0256,UNUSUAL_TRANSACTION,C02369,0.82,Transaction pattern deviates from the synthetic baseline.
+A00850,P0242,HIGH_CALL_ACTIVITY,T02189,0.94,Repeated communication was detected between connected entities.
+A00851,P0029,HIGH_CALL_ACTIVITY,F00378,0.7,Repeated communication was detected between connected entities.
+A00852,P0458,LOCATION_ASSOCIATION,C04725,0.76,A linked vehicle/person was observed at a monitored synthetic location.
+A00853,P0384,DENSE_NETWORK_CLUSTER,C02820,0.76,Entity is located in a densely connected synthetic graph cluster.
+A00854,P0136,HIGH_CALL_ACTIVITY,C04404,0.71,Repeated communication was detected between connected entities.
+A00855,P0109,LOCATION_ASSOCIATION,C01636,0.87,A linked vehicle/person was observed at a monitored synthetic location.
+A00856,P0187,DENSE_NETWORK_CLUSTER,C02629,0.68,Entity is located in a densely connected synthetic graph cluster.
+A00857,P0285,DENSE_NETWORK_CLUSTER,C01097,0.85,Entity is located in a densely connected synthetic graph cluster.
+A00858,P0329,DENSE_NETWORK_CLUSTER,F00620,0.7,Entity is located in a densely connected synthetic graph cluster.
+A00859,P0197,LOCATION_ASSOCIATION,C05932,0.63,A linked vehicle/person was observed at a monitored synthetic location.
+A00860,P0382,HIGH_CALL_ACTIVITY,T01739,0.65,Repeated communication was detected between connected entities.
+A00861,P0146,HIGH_CALL_ACTIVITY,C03813,0.97,Repeated communication was detected between connected entities.
+A00862,P0076,HIGH_CALL_ACTIVITY,T02937,0.83,Repeated communication was detected between connected entities.
+A00863,P0171,DENSE_NETWORK_CLUSTER,C05592,0.8,Entity is located in a densely connected synthetic graph cluster.
+A00864,P0222,DENSE_NETWORK_CLUSTER,C03247,0.78,Entity is located in a densely connected synthetic graph cluster.
+A00865,P0209,HIGH_CALL_ACTIVITY,T02641,0.77,Repeated communication was detected between connected entities.
+A00866,P0458,HIGH_CALL_ACTIVITY,C05158,0.94,Repeated communication was detected between connected entities.
+A00867,P0144,HIGH_CALL_ACTIVITY,T01865,0.94,Repeated communication was detected between connected entities.
+A00868,P0382,LOCATION_ASSOCIATION,F00309,0.84,A linked vehicle/person was observed at a monitored synthetic location.
+A00869,P0489,UNUSUAL_TRANSACTION,C05732,0.97,Transaction pattern deviates from the synthetic baseline.
+A00870,P0260,UNUSUAL_TRANSACTION,T02221,0.88,Transaction pattern deviates from the synthetic baseline.
+A00871,P0302,LOCATION_ASSOCIATION,T02045,0.76,A linked vehicle/person was observed at a monitored synthetic location.
+A00872,P0197,HIGH_CALL_ACTIVITY,T01919,0.68,Repeated communication was detected between connected entities.
+A00873,P0239,HIGH_CALL_ACTIVITY,C04295,0.8,Repeated communication was detected between connected entities.
+A00874,P0209,HIGH_CALL_ACTIVITY,C05239,0.85,Repeated communication was detected between connected entities.
+A00875,P0302,HIGH_CALL_ACTIVITY,C02974,0.64,Repeated communication was detected between connected entities.
+A00876,P0210,HIGH_CALL_ACTIVITY,C03680,0.78,Repeated communication was detected between connected entities.
+A00877,P0341,HIGH_CALL_ACTIVITY,T00656,0.94,Repeated communication was detected between connected entities.
+A00878,P0137,HIGH_CALL_ACTIVITY,C02814,0.9,Repeated communication was detected between connected entities.
+A00879,P0491,LOCATION_ASSOCIATION,C03571,0.77,A linked vehicle/person was observed at a monitored synthetic location.
+A00880,P0217,HIGH_CALL_ACTIVITY,C04769,0.62,Repeated communication was detected between connected entities.
+A00881,P0379,UNUSUAL_TRANSACTION,F00885,0.91,Transaction pattern deviates from the synthetic baseline.
+A00882,P0137,UNUSUAL_TRANSACTION,C02784,0.92,Transaction pattern deviates from the synthetic baseline.
+A00883,P0299,LOCATION_ASSOCIATION,C04700,0.96,A linked vehicle/person was observed at a monitored synthetic location.
+A00884,P0011,HIGH_CALL_ACTIVITY,C04208,0.83,Repeated communication was detected between connected entities.
+A00885,P0421,HIGH_CALL_ACTIVITY,C01433,0.82,Repeated communication was detected between connected entities.
+A00886,P0095,DENSE_NETWORK_CLUSTER,C05057,0.83,Entity is located in a densely connected synthetic graph cluster.
+A00887,P0309,HIGH_CALL_ACTIVITY,F00064,0.88,Repeated communication was detected between connected entities.
+A00888,P0421,HIGH_CALL_ACTIVITY,C01457,0.77,Repeated communication was detected between connected entities.
+A00889,P0400,LOCATION_ASSOCIATION,C04340,0.73,A linked vehicle/person was observed at a monitored synthetic location.
+A00890,P0330,DENSE_NETWORK_CLUSTER,T01911,0.68,Entity is located in a densely connected synthetic graph cluster.
+A00891,P0294,HIGH_CALL_ACTIVITY,C01591,0.64,Repeated communication was detected between connected entities.
+A00892,P0057,DENSE_NETWORK_CLUSTER,C01099,0.79,Entity is located in a densely connected synthetic graph cluster.
+A00893,P0096,UNUSUAL_TRANSACTION,C00980,0.63,Transaction pattern deviates from the synthetic baseline.
+A00894,P0071,HIGH_CALL_ACTIVITY,T01652,0.64,Repeated communication was detected between connected entities.
+A00895,P0071,HIGH_CALL_ACTIVITY,C00239,0.81,Repeated communication was detected between connected entities.
+A00896,P0156,LOCATION_ASSOCIATION,T00242,0.88,A linked vehicle/person was observed at a monitored synthetic location.
+A00897,P0177,UNUSUAL_TRANSACTION,T01984,0.74,Transaction pattern deviates from the synthetic baseline.
+A00898,P0440,LOCATION_ASSOCIATION,T00613,0.91,A linked vehicle/person was observed at a monitored synthetic location.
+A00899,P0364,HIGH_CALL_ACTIVITY,C02056,0.69,Repeated communication was detected between connected entities.
+A00900,P0056,LOCATION_ASSOCIATION,C01329,0.63,A linked vehicle/person was observed at a monitored synthetic location.
+A00901,P0254,HIGH_CALL_ACTIVITY,T01007,0.86,Repeated communication was detected between connected entities.
+A00902,P0175,UNUSUAL_TRANSACTION,T00483,0.78,Transaction pattern deviates from the synthetic baseline.
+A00903,P0222,UNUSUAL_TRANSACTION,C05033,0.97,Transaction pattern deviates from the synthetic baseline.
+A00904,P0392,UNUSUAL_TRANSACTION,C01605,0.77,Transaction pattern deviates from the synthetic baseline.
+A00905,P0237,DENSE_NETWORK_CLUSTER,F00359,0.74,Entity is located in a densely connected synthetic graph cluster.
+A00906,P0108,UNUSUAL_TRANSACTION,C01842,0.61,Transaction pattern deviates from the synthetic baseline.
+A00907,P0285,HIGH_CALL_ACTIVITY,F00975,0.92,Repeated communication was detected between connected entities.
+A00908,P0446,HIGH_CALL_ACTIVITY,F00297,0.72,Repeated communication was detected between connected entities.
+A00909,P0235,HIGH_CALL_ACTIVITY,T00713,0.78,Repeated communication was detected between connected entities.
+A00910,P0050,HIGH_CALL_ACTIVITY,C00750,0.86,Repeated communication was detected between connected entities.
+A00911,P0394,LOCATION_ASSOCIATION,C00015,0.96,A linked vehicle/person was observed at a monitored synthetic location.
+A00912,P0233,LOCATION_ASSOCIATION,C04508,0.65,A linked vehicle/person was observed at a monitored synthetic location.
+A00913,P0447,LOCATION_ASSOCIATION,C03113,0.79,A linked vehicle/person was observed at a monitored synthetic location.
+A00914,P0446,DENSE_NETWORK_CLUSTER,C03905,0.82,Entity is located in a densely connected synthetic graph cluster.
+A00915,P0412,UNUSUAL_TRANSACTION,T02022,0.65,Transaction pattern deviates from the synthetic baseline.
+A00916,P0338,HIGH_CALL_ACTIVITY,T00846,0.86,Repeated communication was detected between connected entities.
+A00917,P0397,UNUSUAL_TRANSACTION,C00925,0.96,Transaction pattern deviates from the synthetic baseline.
+A00918,P0054,HIGH_CALL_ACTIVITY,C05443,0.89,Repeated communication was detected between connected entities.
+A00919,P0133,DENSE_NETWORK_CLUSTER,F00496,0.86,Entity is located in a densely connected synthetic graph cluster.
+A00920,P0144,DENSE_NETWORK_CLUSTER,C01845,0.6,Entity is located in a densely connected synthetic graph cluster.
+A00921,P0436,HIGH_CALL_ACTIVITY,C03962,0.93,Repeated communication was detected between connected entities.
+A00922,P0184,LOCATION_ASSOCIATION,C05259,0.64,A linked vehicle/person was observed at a monitored synthetic location.
+A00923,P0233,HIGH_CALL_ACTIVITY,C05387,0.86,Repeated communication was detected between connected entities.
+A00924,P0336,LOCATION_ASSOCIATION,T01450,0.91,A linked vehicle/person was observed at a monitored synthetic location.
+A00925,P0086,DENSE_NETWORK_CLUSTER,F00161,0.82,Entity is located in a densely connected synthetic graph cluster.
+A00926,P0353,HIGH_CALL_ACTIVITY,C01851,0.71,Repeated communication was detected between connected entities.
+A00927,P0195,HIGH_CALL_ACTIVITY,C02594,0.79,Repeated communication was detected between connected entities.
+A00928,P0339,HIGH_CALL_ACTIVITY,C04602,0.66,Repeated communication was detected between connected entities.
+A00929,P0008,HIGH_CALL_ACTIVITY,C01627,0.84,Repeated communication was detected between connected entities.
+A00930,P0023,LOCATION_ASSOCIATION,T00987,0.95,A linked vehicle/person was observed at a monitored synthetic location.
+A00931,P0228,LOCATION_ASSOCIATION,F00376,0.94,A linked vehicle/person was observed at a monitored synthetic location.
+A00932,P0214,LOCATION_ASSOCIATION,F00328,0.82,A linked vehicle/person was observed at a monitored synthetic location.
+A00933,P0264,DENSE_NETWORK_CLUSTER,T02383,0.8,Entity is located in a densely connected synthetic graph cluster.
+A00934,P0390,LOCATION_ASSOCIATION,F00178,0.8,A linked vehicle/person was observed at a monitored synthetic location.
+A00935,P0335,HIGH_CALL_ACTIVITY,T02958,0.64,Repeated communication was detected between connected entities.
+A00936,P0285,DENSE_NETWORK_CLUSTER,T00283,0.77,Entity is located in a densely connected synthetic graph cluster.
+A00937,P0405,HIGH_CALL_ACTIVITY,T01193,0.64,Repeated communication was detected between connected entities.
+A00938,P0482,LOCATION_ASSOCIATION,C00407,0.85,A linked vehicle/person was observed at a monitored synthetic location.
+A00939,P0466,UNUSUAL_TRANSACTION,C05095,0.76,Transaction pattern deviates from the synthetic baseline.
+A00940,P0473,LOCATION_ASSOCIATION,T02839,0.62,A linked vehicle/person was observed at a monitored synthetic location.
+A00941,P0433,UNUSUAL_TRANSACTION,C05964,0.84,Transaction pattern deviates from the synthetic baseline.
+A00942,P0303,UNUSUAL_TRANSACTION,T01135,0.68,Transaction pattern deviates from the synthetic baseline.
+A00943,P0331,HIGH_CALL_ACTIVITY,T02955,0.66,Repeated communication was detected between connected entities.
+A00944,P0269,UNUSUAL_TRANSACTION,C01215,0.8,Transaction pattern deviates from the synthetic baseline.
+A00945,P0088,LOCATION_ASSOCIATION,C03424,0.8,A linked vehicle/person was observed at a monitored synthetic location.
+A00946,P0358,UNUSUAL_TRANSACTION,C01523,0.86,Transaction pattern deviates from the synthetic baseline.
+A00947,P0026,HIGH_CALL_ACTIVITY,T02647,0.85,Repeated communication was detected between connected entities.
+A00948,P0172,UNUSUAL_TRANSACTION,C03338,0.92,Transaction pattern deviates from the synthetic baseline.
+A00949,P0199,DENSE_NETWORK_CLUSTER,T00628,0.84,Entity is located in a densely connected synthetic graph cluster.
+A00950,P0335,LOCATION_ASSOCIATION,T02132,0.73,A linked vehicle/person was observed at a monitored synthetic location.
+A00951,P0284,LOCATION_ASSOCIATION,C02172,0.67,A linked vehicle/person was observed at a monitored synthetic location.
+A00952,P0393,UNUSUAL_TRANSACTION,C05027,0.83,Transaction pattern deviates from the synthetic baseline.
+A00953,P0008,DENSE_NETWORK_CLUSTER,T00627,0.93,Entity is located in a densely connected synthetic graph cluster.
+A00954,P0124,HIGH_CALL_ACTIVITY,C02134,0.74,Repeated communication was detected between connected entities.
+A00955,P0057,DENSE_NETWORK_CLUSTER,C00078,0.88,Entity is located in a densely connected synthetic graph cluster.
+A00956,P0066,HIGH_CALL_ACTIVITY,C03395,0.92,Repeated communication was detected between connected entities.
+A00957,P0364,DENSE_NETWORK_CLUSTER,F00537,0.83,Entity is located in a densely connected synthetic graph cluster.
+A00958,P0136,LOCATION_ASSOCIATION,C00951,0.95,A linked vehicle/person was observed at a monitored synthetic location.
+A00959,P0414,LOCATION_ASSOCIATION,F00664,0.73,A linked vehicle/person was observed at a monitored synthetic location.
+A00960,P0362,HIGH_CALL_ACTIVITY,C02153,0.69,Repeated communication was detected between connected entities.
+A00961,P0470,DENSE_NETWORK_CLUSTER,T01584,0.94,Entity is located in a densely connected synthetic graph cluster.
+A00962,P0333,LOCATION_ASSOCIATION,C02621,0.65,A linked vehicle/person was observed at a monitored synthetic location.
+A00963,P0186,LOCATION_ASSOCIATION,F00250,0.93,A linked vehicle/person was observed at a monitored synthetic location.
+A00964,P0403,DENSE_NETWORK_CLUSTER,T01696,0.89,Entity is located in a densely connected synthetic graph cluster.
+A00965,P0179,UNUSUAL_TRANSACTION,C03803,0.6,Transaction pattern deviates from the synthetic baseline.
+A00966,P0304,HIGH_CALL_ACTIVITY,T01946,0.95,Repeated communication was detected between connected entities.
+A00967,P0078,DENSE_NETWORK_CLUSTER,C02725,0.81,Entity is located in a densely connected synthetic graph cluster.
+A00968,P0046,LOCATION_ASSOCIATION,C01021,0.89,A linked vehicle/person was observed at a monitored synthetic location.
+A00969,P0342,HIGH_CALL_ACTIVITY,T01156,0.91,Repeated communication was detected between connected entities.
+A00970,P0017,UNUSUAL_TRANSACTION,C04726,0.9,Transaction pattern deviates from the synthetic baseline.
+A00971,P0384,HIGH_CALL_ACTIVITY,C05270,0.72,Repeated communication was detected between connected entities.
+A00972,P0009,DENSE_NETWORK_CLUSTER,T01031,0.94,Entity is located in a densely connected synthetic graph cluster.
+A00973,P0218,LOCATION_ASSOCIATION,C04641,0.62,A linked vehicle/person was observed at a monitored synthetic location.
+A00974,P0412,DENSE_NETWORK_CLUSTER,F00643,0.64,Entity is located in a densely connected synthetic graph cluster.
+A00975,P0395,DENSE_NETWORK_CLUSTER,C00435,0.72,Entity is located in a densely connected synthetic graph cluster.
+A00976,P0322,UNUSUAL_TRANSACTION,C01975,0.89,Transaction pattern deviates from the synthetic baseline.
+A00977,P0490,HIGH_CALL_ACTIVITY,C02718,0.92,Repeated communication was detected between connected entities.
+A00978,P0334,HIGH_CALL_ACTIVITY,C03834,0.72,Repeated communication was detected between connected entities.
+A00979,P0218,DENSE_NETWORK_CLUSTER,C02690,0.83,Entity is located in a densely connected synthetic graph cluster.
+A00980,P0236,HIGH_CALL_ACTIVITY,C03039,0.87,Repeated communication was detected between connected entities.
+A00981,P0390,DENSE_NETWORK_CLUSTER,T02654,0.71,Entity is located in a densely connected synthetic graph cluster.
+A00982,P0179,DENSE_NETWORK_CLUSTER,C05339,0.72,Entity is located in a densely connected synthetic graph cluster.
+A00983,P0027,UNUSUAL_TRANSACTION,C03201,0.67,Transaction pattern deviates from the synthetic baseline.
+A00984,P0002,LOCATION_ASSOCIATION,T02022,0.88,A linked vehicle/person was observed at a monitored synthetic location.
+A00985,P0377,HIGH_CALL_ACTIVITY,T01672,0.64,Repeated communication was detected between connected entities.
+A00986,P0358,LOCATION_ASSOCIATION,C00663,0.66,A linked vehicle/person was observed at a monitored synthetic location.
+A00987,P0017,DENSE_NETWORK_CLUSTER,C01830,0.67,Entity is located in a densely connected synthetic graph cluster.
+A00988,P0428,DENSE_NETWORK_CLUSTER,T02132,0.97,Entity is located in a densely connected synthetic graph cluster.
+A00989,P0319,UNUSUAL_TRANSACTION,C00945,0.64,Transaction pattern deviates from the synthetic baseline.
+A00990,P0130,DENSE_NETWORK_CLUSTER,C00697,0.8,Entity is located in a densely connected synthetic graph cluster.
+A00991,P0424,HIGH_CALL_ACTIVITY,C01831,0.85,Repeated communication was detected between connected entities.
+A00992,P0314,HIGH_CALL_ACTIVITY,T01291,0.65,Repeated communication was detected between connected entities.
+A00993,P0201,LOCATION_ASSOCIATION,T01550,0.72,A linked vehicle/person was observed at a monitored synthetic location.
+A00994,P0387,LOCATION_ASSOCIATION,C02834,0.83,A linked vehicle/person was observed at a monitored synthetic location.
+A00995,P0328,HIGH_CALL_ACTIVITY,T02017,0.76,Repeated communication was detected between connected entities.
+A00996,P0122,HIGH_CALL_ACTIVITY,C00656,0.66,Repeated communication was detected between connected entities.
+A00997,P0090,HIGH_CALL_ACTIVITY,C00006,0.8,Repeated communication was detected between connected entities.
+A00998,P0481,LOCATION_ASSOCIATION,C01476,0.85,A linked vehicle/person was observed at a monitored synthetic location.
+A00999,P0046,UNUSUAL_TRANSACTION,T00600,0.61,Transaction pattern deviates from the synthetic baseline.
+A01000,P0265,DENSE_NETWORK_CLUSTER,C02114,0.89,Entity is located in a densely connected synthetic graph cluster.
+A01001,P0060,DENSE_NETWORK_CLUSTER,C04760,0.83,Entity is located in a densely connected synthetic graph cluster.
+A01002,P0393,HIGH_CALL_ACTIVITY,C00317,0.96,Repeated communication was detected between connected entities.
+A01003,P0073,DENSE_NETWORK_CLUSTER,T02566,0.63,Entity is located in a densely connected synthetic graph cluster.
+A01004,P0354,HIGH_CALL_ACTIVITY,C03070,0.72,Repeated communication was detected between connected entities.
+A01005,P0160,LOCATION_ASSOCIATION,T02786,0.93,A linked vehicle/person was observed at a monitored synthetic location.
+A01006,P0403,LOCATION_ASSOCIATION,C03334,0.96,A linked vehicle/person was observed at a monitored synthetic location.
+A01007,P0256,HIGH_CALL_ACTIVITY,T00994,0.8,Repeated communication was detected between connected entities.
+A01008,P0489,UNUSUAL_TRANSACTION,C05741,0.84,Transaction pattern deviates from the synthetic baseline.
+A01009,P0459,LOCATION_ASSOCIATION,T00703,0.78,A linked vehicle/person was observed at a monitored synthetic location.
+A01010,P0336,UNUSUAL_TRANSACTION,F00503,0.95,Transaction pattern deviates from the synthetic baseline.
+A01011,P0476,UNUSUAL_TRANSACTION,C01242,0.67,Transaction pattern deviates from the synthetic baseline.
+A01012,P0257,LOCATION_ASSOCIATION,C05012,0.64,A linked vehicle/person was observed at a monitored synthetic location.
+A01013,P0033,LOCATION_ASSOCIATION,C04700,0.71,A linked vehicle/person was observed at a monitored synthetic location.
+A01014,P0459,HIGH_CALL_ACTIVITY,F00601,0.74,Repeated communication was detected between connected entities.
+A01015,P0274,UNUSUAL_TRANSACTION,T02014,0.86,Transaction pattern deviates from the synthetic baseline.
+A01016,P0098,UNUSUAL_TRANSACTION,C05139,0.66,Transaction pattern deviates from the synthetic baseline.
+A01017,P0130,HIGH_CALL_ACTIVITY,T02024,0.87,Repeated communication was detected between connected entities.
+A01018,P0212,LOCATION_ASSOCIATION,C01620,0.97,A linked vehicle/person was observed at a monitored synthetic location.
+A01019,P0296,UNUSUAL_TRANSACTION,C03169,0.67,Transaction pattern deviates from the synthetic baseline.
+A01020,P0481,UNUSUAL_TRANSACTION,C05457,0.79,Transaction pattern deviates from the synthetic baseline.
+A01021,P0110,DENSE_NETWORK_CLUSTER,C04294,0.89,Entity is located in a densely connected synthetic graph cluster.
+A01022,P0454,LOCATION_ASSOCIATION,T02443,0.62,A linked vehicle/person was observed at a monitored synthetic location.
+A01023,P0269,HIGH_CALL_ACTIVITY,T01560,0.75,Repeated communication was detected between connected entities.
+A01024,P0147,HIGH_CALL_ACTIVITY,C03203,0.84,Repeated communication was detected between connected entities.
+A01025,P0209,HIGH_CALL_ACTIVITY,F00220,0.6,Repeated communication was detected between connected entities.
+A01026,P0308,UNUSUAL_TRANSACTION,C04899,0.87,Transaction pattern deviates from the synthetic baseline.
+A01027,P0092,UNUSUAL_TRANSACTION,C00175,0.81,Transaction pattern deviates from the synthetic baseline.
+A01028,P0023,UNUSUAL_TRANSACTION,C02242,0.73,Transaction pattern deviates from the synthetic baseline.
+A01029,P0117,DENSE_NETWORK_CLUSTER,T02766,0.66,Entity is located in a densely connected synthetic graph cluster.
+A01030,P0024,LOCATION_ASSOCIATION,T00644,0.77,A linked vehicle/person was observed at a monitored synthetic location.
+A01031,P0494,HIGH_CALL_ACTIVITY,C03458,0.95,Repeated communication was detected between connected entities.
+A01032,P0460,UNUSUAL_TRANSACTION,T00878,0.74,Transaction pattern deviates from the synthetic baseline.
+A01033,P0065,LOCATION_ASSOCIATION,T00748,0.87,A linked vehicle/person was observed at a monitored synthetic location.
+A01034,P0010,LOCATION_ASSOCIATION,T00102,0.95,A linked vehicle/person was observed at a monitored synthetic location.
+A01035,P0151,HIGH_CALL_ACTIVITY,C05141,0.69,Repeated communication was detected between connected entities.
+A01036,P0205,LOCATION_ASSOCIATION,C00985,0.65,A linked vehicle/person was observed at a monitored synthetic location.
+A01037,P0218,DENSE_NETWORK_CLUSTER,C01338,0.72,Entity is located in a densely connected synthetic graph cluster.
+A01038,P0383,LOCATION_ASSOCIATION,C05149,0.72,A linked vehicle/person was observed at a monitored synthetic location.
+A01039,P0403,LOCATION_ASSOCIATION,C00114,0.71,A linked vehicle/person was observed at a monitored synthetic location.
+A01040,P0131,HIGH_CALL_ACTIVITY,T01880,0.63,Repeated communication was detected between connected entities.
+A01041,P0023,HIGH_CALL_ACTIVITY,T01895,0.81,Repeated communication was detected between connected entities.
+A01042,P0272,DENSE_NETWORK_CLUSTER,F00423,0.85,Entity is located in a densely connected synthetic graph cluster.
+A01043,P0466,UNUSUAL_TRANSACTION,C04307,0.96,Transaction pattern deviates from the synthetic baseline.
+A01044,P0340,DENSE_NETWORK_CLUSTER,C05972,0.76,Entity is located in a densely connected synthetic graph cluster.
+A01045,P0103,LOCATION_ASSOCIATION,T01050,0.91,A linked vehicle/person was observed at a monitored synthetic location.
+A01046,P0154,UNUSUAL_TRANSACTION,C00399,0.97,Transaction pattern deviates from the synthetic baseline.
+A01047,P0342,HIGH_CALL_ACTIVITY,C05325,0.87,Repeated communication was detected between connected entities.
+A01048,P0314,UNUSUAL_TRANSACTION,C05604,0.92,Transaction pattern deviates from the synthetic baseline.
+A01049,P0112,HIGH_CALL_ACTIVITY,C01804,0.93,Repeated communication was detected between connected entities.
+A01050,P0365,DENSE_NETWORK_CLUSTER,C03203,0.91,Entity is located in a densely connected synthetic graph cluster.
+A01051,P0015,LOCATION_ASSOCIATION,C00007,0.86,A linked vehicle/person was observed at a monitored synthetic location.
+A01052,P0067,LOCATION_ASSOCIATION,C05701,0.86,A linked vehicle/person was observed at a monitored synthetic location.
+A01053,P0044,DENSE_NETWORK_CLUSTER,C01391,0.82,Entity is located in a densely connected synthetic graph cluster.
+A01054,P0153,LOCATION_ASSOCIATION,C05211,0.65,A linked vehicle/person was observed at a monitored synthetic location.
+A01055,P0451,HIGH_CALL_ACTIVITY,C01278,0.72,Repeated communication was detected between connected entities.
+A01056,P0453,HIGH_CALL_ACTIVITY,T02229,0.82,Repeated communication was detected between connected entities.
+A01057,P0006,UNUSUAL_TRANSACTION,C00530,0.74,Transaction pattern deviates from the synthetic baseline.
+A01058,P0282,HIGH_CALL_ACTIVITY,C03072,0.76,Repeated communication was detected between connected entities.
+A01059,P0166,HIGH_CALL_ACTIVITY,C04521,0.9,Repeated communication was detected between connected entities.
+A01060,P0354,LOCATION_ASSOCIATION,T02488,0.85,A linked vehicle/person was observed at a monitored synthetic location.
+A01061,P0183,DENSE_NETWORK_CLUSTER,T01640,0.92,Entity is located in a densely connected synthetic graph cluster.
+A01062,P0367,LOCATION_ASSOCIATION,C03560,0.75,A linked vehicle/person was observed at a monitored synthetic location.
+A01063,P0107,HIGH_CALL_ACTIVITY,C02951,0.9,Repeated communication was detected between connected entities.
+A01064,P0362,UNUSUAL_TRANSACTION,C03679,0.65,Transaction pattern deviates from the synthetic baseline.
+A01065,P0439,LOCATION_ASSOCIATION,T00497,0.77,A linked vehicle/person was observed at a monitored synthetic location.
+A01066,P0263,UNUSUAL_TRANSACTION,T02191,0.83,Transaction pattern deviates from the synthetic baseline.
+A01067,P0379,HIGH_CALL_ACTIVITY,C02062,0.65,Repeated communication was detected between connected entities.
+A01068,P0204,LOCATION_ASSOCIATION,T01809,0.63,A linked vehicle/person was observed at a monitored synthetic location.
+A01069,P0041,LOCATION_ASSOCIATION,C01282,0.79,A linked vehicle/person was observed at a monitored synthetic location.
+A01070,P0107,LOCATION_ASSOCIATION,T02106,0.96,A linked vehicle/person was observed at a monitored synthetic location.
+A01071,P0239,LOCATION_ASSOCIATION,C02481,0.74,A linked vehicle/person was observed at a monitored synthetic location.
+A01072,P0298,DENSE_NETWORK_CLUSTER,F00859,0.79,Entity is located in a densely connected synthetic graph cluster.
+A01073,P0402,LOCATION_ASSOCIATION,C03720,0.74,A linked vehicle/person was observed at a monitored synthetic location.
+A01074,P0091,UNUSUAL_TRANSACTION,C01131,0.78,Transaction pattern deviates from the synthetic baseline.
+A01075,P0431,UNUSUAL_TRANSACTION,C01847,0.63,Transaction pattern deviates from the synthetic baseline.
+A01076,P0132,HIGH_CALL_ACTIVITY,C04049,0.62,Repeated communication was detected between connected entities.
+A01077,P0385,UNUSUAL_TRANSACTION,F00121,0.68,Transaction pattern deviates from the synthetic baseline.
+A01078,P0391,DENSE_NETWORK_CLUSTER,C02383,0.91,Entity is located in a densely connected synthetic graph cluster.
+A01079,P0460,DENSE_NETWORK_CLUSTER,C00988,0.88,Entity is located in a densely connected synthetic graph cluster.
+A01080,P0441,HIGH_CALL_ACTIVITY,C04967,0.75,Repeated communication was detected between connected entities.
+A01081,P0101,UNUSUAL_TRANSACTION,T01423,0.79,Transaction pattern deviates from the synthetic baseline.
+A01082,P0002,HIGH_CALL_ACTIVITY,C04060,0.75,Repeated communication was detected between connected entities.
+A01083,P0252,HIGH_CALL_ACTIVITY,F00695,0.91,Repeated communication was detected between connected entities.
+A01084,P0218,HIGH_CALL_ACTIVITY,T01136,0.81,Repeated communication was detected between connected entities.
+A01085,P0219,UNUSUAL_TRANSACTION,T01228,0.8,Transaction pattern deviates from the synthetic baseline.
+A01086,P0381,UNUSUAL_TRANSACTION,C00282,0.64,Transaction pattern deviates from the synthetic baseline.
+A01087,P0235,LOCATION_ASSOCIATION,C05454,0.67,A linked vehicle/person was observed at a monitored synthetic location.
+A01088,P0367,HIGH_CALL_ACTIVITY,C02161,0.66,Repeated communication was detected between connected entities.
+A01089,P0048,DENSE_NETWORK_CLUSTER,C05062,0.6,Entity is located in a densely connected synthetic graph cluster.
+A01090,P0261,HIGH_CALL_ACTIVITY,C03998,0.63,Repeated communication was detected between connected entities.
+A01091,P0483,LOCATION_ASSOCIATION,C04064,0.61,A linked vehicle/person was observed at a monitored synthetic location.
+A01092,P0181,UNUSUAL_TRANSACTION,C01278,0.8,Transaction pattern deviates from the synthetic baseline.
+A01093,P0263,UNUSUAL_TRANSACTION,C00258,0.66,Transaction pattern deviates from the synthetic baseline.
+A01094,P0064,UNUSUAL_TRANSACTION,C05726,0.62,Transaction pattern deviates from the synthetic baseline.
+A01095,P0094,LOCATION_ASSOCIATION,C04065,0.81,A linked vehicle/person was observed at a monitored synthetic location.
+A01096,P0085,UNUSUAL_TRANSACTION,C05025,0.71,Transaction pattern deviates from the synthetic baseline.
+A01097,P0321,DENSE_NETWORK_CLUSTER,F00871,0.73,Entity is located in a densely connected synthetic graph cluster.
+A01098,P0424,LOCATION_ASSOCIATION,C04034,0.86,A linked vehicle/person was observed at a monitored synthetic location.
+A01099,P0357,DENSE_NETWORK_CLUSTER,C05505,0.7,Entity is located in a densely connected synthetic graph cluster.
+A01100,P0181,LOCATION_ASSOCIATION,C02737,0.89,A linked vehicle/person was observed at a monitored synthetic location.
+A01101,P0429,UNUSUAL_TRANSACTION,T02961,0.86,Transaction pattern deviates from the synthetic baseline.
+A01102,P0161,LOCATION_ASSOCIATION,C04841,0.9,A linked vehicle/person was observed at a monitored synthetic location.
+A01103,P0268,DENSE_NETWORK_CLUSTER,C03867,0.71,Entity is located in a densely connected synthetic graph cluster.
+A01104,P0248,UNUSUAL_TRANSACTION,T02399,0.68,Transaction pattern deviates from the synthetic baseline.
+A01105,P0304,LOCATION_ASSOCIATION,C00572,0.75,A linked vehicle/person was observed at a monitored synthetic location.
+A01106,P0014,UNUSUAL_TRANSACTION,C00782,0.96,Transaction pattern deviates from the synthetic baseline.
+A01107,P0300,LOCATION_ASSOCIATION,C05341,0.67,A linked vehicle/person was observed at a monitored synthetic location.
+A01108,P0440,DENSE_NETWORK_CLUSTER,T00792,0.63,Entity is located in a densely connected synthetic graph cluster.
+A01109,P0380,UNUSUAL_TRANSACTION,C02846,0.7,Transaction pattern deviates from the synthetic baseline.
+A01110,P0419,HIGH_CALL_ACTIVITY,T01907,0.7,Repeated communication was detected between connected entities.
+A01111,P0141,UNUSUAL_TRANSACTION,T02613,0.92,Transaction pattern deviates from the synthetic baseline.
+A01112,P0065,LOCATION_ASSOCIATION,C03573,0.94,A linked vehicle/person was observed at a monitored synthetic location.
+A01113,P0370,UNUSUAL_TRANSACTION,C04230,0.79,Transaction pattern deviates from the synthetic baseline.
+A01114,P0451,LOCATION_ASSOCIATION,T02916,0.73,A linked vehicle/person was observed at a monitored synthetic location.
+A01115,P0307,DENSE_NETWORK_CLUSTER,T02349,0.67,Entity is located in a densely connected synthetic graph cluster.
+A01116,P0282,LOCATION_ASSOCIATION,F00692,0.66,A linked vehicle/person was observed at a monitored synthetic location.
+A01117,P0144,HIGH_CALL_ACTIVITY,C04574,0.77,Repeated communication was detected between connected entities.
+A01118,P0468,DENSE_NETWORK_CLUSTER,C02151,0.72,Entity is located in a densely connected synthetic graph cluster.
+A01119,P0484,DENSE_NETWORK_CLUSTER,T01275,0.67,Entity is located in a densely connected synthetic graph cluster.
+A01120,P0224,HIGH_CALL_ACTIVITY,F00027,0.74,Repeated communication was detected between connected entities.
+A01121,P0326,DENSE_NETWORK_CLUSTER,C01116,0.85,Entity is located in a densely connected synthetic graph cluster.
+A01122,P0442,UNUSUAL_TRANSACTION,T02845,0.62,Transaction pattern deviates from the synthetic baseline.
+A01123,P0121,LOCATION_ASSOCIATION,C02638,0.86,A linked vehicle/person was observed at a monitored synthetic location.
+A01124,P0281,DENSE_NETWORK_CLUSTER,F00913,0.77,Entity is located in a densely connected synthetic graph cluster.
+A01125,P0084,DENSE_NETWORK_CLUSTER,C02942,0.73,Entity is located in a densely connected synthetic graph cluster.
+A01126,P0393,DENSE_NETWORK_CLUSTER,T00810,0.66,Entity is located in a densely connected synthetic graph cluster.
+A01127,P0291,DENSE_NETWORK_CLUSTER,T02219,0.66,Entity is located in a densely connected synthetic graph cluster.
+A01128,P0143,UNUSUAL_TRANSACTION,F00014,0.65,Transaction pattern deviates from the synthetic baseline.
+A01129,P0154,LOCATION_ASSOCIATION,C05939,0.68,A linked vehicle/person was observed at a monitored synthetic location.
+A01130,P0425,DENSE_NETWORK_CLUSTER,C02813,0.7,Entity is located in a densely connected synthetic graph cluster.
+A01131,P0079,UNUSUAL_TRANSACTION,C00910,0.83,Transaction pattern deviates from the synthetic baseline.
+A01132,P0491,DENSE_NETWORK_CLUSTER,F00947,0.73,Entity is located in a densely connected synthetic graph cluster.
+A01133,P0276,UNUSUAL_TRANSACTION,T02187,0.95,Transaction pattern deviates from the synthetic baseline.
+A01134,P0248,DENSE_NETWORK_CLUSTER,C01130,0.79,Entity is located in a densely connected synthetic graph cluster.
+A01135,P0048,LOCATION_ASSOCIATION,T02681,0.72,A linked vehicle/person was observed at a monitored synthetic location.
+A01136,P0363,HIGH_CALL_ACTIVITY,C02421,0.96,Repeated communication was detected between connected entities.
+A01137,P0301,HIGH_CALL_ACTIVITY,C05926,0.75,Repeated communication was detected between connected entities.
+A01138,P0496,LOCATION_ASSOCIATION,C05866,0.82,A linked vehicle/person was observed at a monitored synthetic location.
+A01139,P0216,LOCATION_ASSOCIATION,C05071,0.67,A linked vehicle/person was observed at a monitored synthetic location.
+A01140,P0314,DENSE_NETWORK_CLUSTER,T01577,0.95,Entity is located in a densely connected synthetic graph cluster.
+A01141,P0314,DENSE_NETWORK_CLUSTER,C03756,0.79,Entity is located in a densely connected synthetic graph cluster.
+A01142,P0106,UNUSUAL_TRANSACTION,C01504,0.88,Transaction pattern deviates from the synthetic baseline.
+A01143,P0437,HIGH_CALL_ACTIVITY,T02383,0.63,Repeated communication was detected between connected entities.
+A01144,P0010,UNUSUAL_TRANSACTION,F00181,0.89,Transaction pattern deviates from the synthetic baseline.
+A01145,P0416,UNUSUAL_TRANSACTION,C03829,0.91,Transaction pattern deviates from the synthetic baseline.
+A01146,P0345,UNUSUAL_TRANSACTION,C05932,0.84,Transaction pattern deviates from the synthetic baseline.
+A01147,P0008,DENSE_NETWORK_CLUSTER,C03174,0.73,Entity is located in a densely connected synthetic graph cluster.
+A01148,P0071,LOCATION_ASSOCIATION,C04055,0.71,A linked vehicle/person was observed at a monitored synthetic location.
+A01149,P0017,LOCATION_ASSOCIATION,T02798,0.81,A linked vehicle/person was observed at a monitored synthetic location.
+A01150,P0092,UNUSUAL_TRANSACTION,T01376,0.91,Transaction pattern deviates from the synthetic baseline.
+A01151,P0228,HIGH_CALL_ACTIVITY,C00979,0.77,Repeated communication was detected between connected entities.
+A01152,P0440,LOCATION_ASSOCIATION,T01906,0.65,A linked vehicle/person was observed at a monitored synthetic location.
+A01153,P0336,HIGH_CALL_ACTIVITY,T01766,0.76,Repeated communication was detected between connected entities.
+A01154,P0133,HIGH_CALL_ACTIVITY,F00383,0.62,Repeated communication was detected between connected entities.
+A01155,P0242,HIGH_CALL_ACTIVITY,C02725,0.81,Repeated communication was detected between connected entities.
+A01156,P0393,DENSE_NETWORK_CLUSTER,C05343,0.64,Entity is located in a densely connected synthetic graph cluster.
+A01157,P0486,HIGH_CALL_ACTIVITY,T02359,0.88,Repeated communication was detected between connected entities.
+A01158,P0005,LOCATION_ASSOCIATION,T02662,0.72,A linked vehicle/person was observed at a monitored synthetic location.
+A01159,P0178,HIGH_CALL_ACTIVITY,T02634,0.81,Repeated communication was detected between connected entities.
+A01160,P0283,DENSE_NETWORK_CLUSTER,C02477,0.94,Entity is located in a densely connected synthetic graph cluster.
+A01161,P0402,DENSE_NETWORK_CLUSTER,C01721,0.83,Entity is located in a densely connected synthetic graph cluster.
+A01162,P0404,DENSE_NETWORK_CLUSTER,F00506,0.94,Entity is located in a densely connected synthetic graph cluster.
+A01163,P0380,UNUSUAL_TRANSACTION,T00545,0.8,Transaction pattern deviates from the synthetic baseline.
+A01164,P0229,DENSE_NETWORK_CLUSTER,C05635,0.7,Entity is located in a densely connected synthetic graph cluster.
+A01165,P0401,UNUSUAL_TRANSACTION,C01405,0.79,Transaction pattern deviates from the synthetic baseline.
+A01166,P0383,DENSE_NETWORK_CLUSTER,T00494,0.66,Entity is located in a densely connected synthetic graph cluster.
+A01167,P0227,LOCATION_ASSOCIATION,F00389,0.91,A linked vehicle/person was observed at a monitored synthetic location.
+A01168,P0320,DENSE_NETWORK_CLUSTER,C01523,0.75,Entity is located in a densely connected synthetic graph cluster.
+A01169,P0060,DENSE_NETWORK_CLUSTER,C01311,0.89,Entity is located in a densely connected synthetic graph cluster.
+A01170,P0001,HIGH_CALL_ACTIVITY,T01181,0.76,Repeated communication was detected between connected entities.
+A01171,P0416,HIGH_CALL_ACTIVITY,C00245,0.82,Repeated communication was detected between connected entities.
+A01172,P0026,UNUSUAL_TRANSACTION,C05879,0.78,Transaction pattern deviates from the synthetic baseline.
+A01173,P0374,UNUSUAL_TRANSACTION,C04831,0.73,Transaction pattern deviates from the synthetic baseline.
+A01174,P0097,UNUSUAL_TRANSACTION,F00651,0.64,Transaction pattern deviates from the synthetic baseline.
+A01175,P0132,HIGH_CALL_ACTIVITY,T01979,0.72,Repeated communication was detected between connected entities.
+A01176,P0484,DENSE_NETWORK_CLUSTER,C04751,0.75,Entity is located in a densely connected synthetic graph cluster.
+A01177,P0251,DENSE_NETWORK_CLUSTER,T00220,0.72,Entity is located in a densely connected synthetic graph cluster.
+A01178,P0414,LOCATION_ASSOCIATION,C02390,0.62,A linked vehicle/person was observed at a monitored synthetic location.
+A01179,P0310,DENSE_NETWORK_CLUSTER,T00190,0.74,Entity is located in a densely connected synthetic graph cluster.
+A01180,P0146,LOCATION_ASSOCIATION,C00992,0.76,A linked vehicle/person was observed at a monitored synthetic location.
+A01181,P0254,HIGH_CALL_ACTIVITY,C01857,0.96,Repeated communication was detected between connected entities.
+A01182,P0033,LOCATION_ASSOCIATION,C04393,0.87,A linked vehicle/person was observed at a monitored synthetic location.
+A01183,P0084,UNUSUAL_TRANSACTION,C00427,0.66,Transaction pattern deviates from the synthetic baseline.
+A01184,P0001,UNUSUAL_TRANSACTION,C01477,0.75,Transaction pattern deviates from the synthetic baseline.
+A01185,P0148,LOCATION_ASSOCIATION,C03436,0.74,A linked vehicle/person was observed at a monitored synthetic location.
+A01186,P0046,HIGH_CALL_ACTIVITY,C05327,0.67,Repeated communication was detected between connected entities.
+A01187,P0166,HIGH_CALL_ACTIVITY,C04847,0.6,Repeated communication was detected between connected entities.
+A01188,P0267,LOCATION_ASSOCIATION,F00093,0.96,A linked vehicle/person was observed at a monitored synthetic location.
+A01189,P0297,HIGH_CALL_ACTIVITY,T02522,0.87,Repeated communication was detected between connected entities.
+A01190,P0350,HIGH_CALL_ACTIVITY,C05475,0.94,Repeated communication was detected between connected entities.
+A01191,P0072,LOCATION_ASSOCIATION,T00568,0.67,A linked vehicle/person was observed at a monitored synthetic location.
+A01192,P0140,DENSE_NETWORK_CLUSTER,C00669,0.67,Entity is located in a densely connected synthetic graph cluster.
+A01193,P0347,DENSE_NETWORK_CLUSTER,T01350,0.62,Entity is located in a densely connected synthetic graph cluster.
+A01194,P0170,HIGH_CALL_ACTIVITY,T02932,0.97,Repeated communication was detected between connected entities.
+A01195,P0359,HIGH_CALL_ACTIVITY,T00995,0.9,Repeated communication was detected between connected entities.
+A01196,P0371,DENSE_NETWORK_CLUSTER,T01394,0.82,Entity is located in a densely connected synthetic graph cluster.
+A01197,P0435,UNUSUAL_TRANSACTION,F00796,0.82,Transaction pattern deviates from the synthetic baseline.
+A01198,P0093,HIGH_CALL_ACTIVITY,C00146,0.81,Repeated communication was detected between connected entities.
+A01199,P0202,LOCATION_ASSOCIATION,T02319,0.89,A linked vehicle/person was observed at a monitored synthetic location.
+A01200,P0083,LOCATION_ASSOCIATION,C01030,0.77,A linked vehicle/person was observed at a monitored synthetic location.

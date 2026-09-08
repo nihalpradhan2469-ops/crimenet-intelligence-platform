@@ -2,14 +2,14 @@ import { NavLink } from "react-router-dom";
 import {
   LayoutDashboard, Briefcase, Search, Network, Users,
   Bell, FileText, Database, BarChart3, ScrollText, Settings,
-  Shield, ChevronRight, Sun, Moon
+  Shield, ChevronRight, Sun, Moon, GitBranch
 } from "lucide-react";
 import { useTheme } from "../context/ThemeContext";
 
 const navItems = [
   { to: "/", label: "Dashboard", icon: LayoutDashboard },
   { to: "/cases", label: "Cases", icon: Briefcase },
-  { to: "/investigations", label: "Investigations", icon: Search },
+  { to: "/investigations", label: "Case Reports", icon: Search },
   { to: "/network", label: "Network Graph", icon: Network },
   { to: "/entities", label: "Entities", icon: Users },
   { to: "/alerts", label: "Alerts", icon: Bell },

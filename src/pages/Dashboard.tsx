@@ -308,7 +308,7 @@ export default function Dashboard() {
               transition: "transform 0.15s ease",
             }}
           >
-            <span>📥 Export Solution & Evidence Dossier</span>
+            <span>📥 Export Case Intelligence Report</span>
           </button>
         </div>
       </div>
@@ -339,7 +339,7 @@ export default function Dashboard() {
               <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
                 <span style={{ fontSize: 20 }}>🛡️</span>
                 <h3 style={{ margin: 0, fontSize: 18, fontWeight: 800, color: "#fff" }}>
-                  Export Investigation Solution & Evidence
+                  Export Case Intelligence Report & Evidence
                 </h3>
               </div>
               <button
@@ -351,13 +351,13 @@ export default function Dashboard() {
             </div>
 
             <p style={{ fontSize: 13, color: "var(--text-muted)", marginBottom: 20, lineHeight: 1.5 }}>
-              Download the verified final intelligence solution, graph metrics, prioritized leads, and cryptographic evidence audit chain.
+              Download the verified final case intelligence solution, suspect profile, prioritized leads, and cryptographic evidence audit chain.
             </p>
 
             {/* Target Select */}
             <div style={{ marginBottom: 20 }}>
               <label style={{ fontSize: 12, fontWeight: 700, color: "#bbb", display: "block", marginBottom: 6 }}>
-                SELECT TARGET SUSPECT / CASE DOSSIER:
+                SELECT TARGET SUSPECT / CASE FILE:
               </label>
               <select
                 value={selectedEntity}

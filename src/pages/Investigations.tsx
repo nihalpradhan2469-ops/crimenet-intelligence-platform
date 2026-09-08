@@ -380,7 +380,7 @@ export default function Investigations() {
               color: "#FF6A00",
               border: "1px solid rgba(255,106,0,0.25)"
             }}>
-              INVESTIGATION DOSSIER
+              CASE INTELLIGENCE REPORT
             </span>
             <span style={{ fontSize: 12, color: "#8B929A" }}>
               Source: Verified Supabase Registry
@@ -405,7 +405,7 @@ export default function Investigations() {
               const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(dossier, null, 2));
               const downloadAnchor = document.createElement("a");
               downloadAnchor.setAttribute("href", dataStr);
-              downloadAnchor.setAttribute("download", `CRIMENET_Dossier_${entity.person_id}.json`);
+              downloadAnchor.setAttribute("download", `CRIMENET_Case_Report_${entity.person_id}.json`);
               document.body.appendChild(downloadAnchor);
               downloadAnchor.click();
               downloadAnchor.remove();
